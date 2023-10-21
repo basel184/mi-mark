@@ -1,0 +1,1341 @@
+{
+  "cart":{
+    "TotalStorageCommissions":"Total storage commissions",
+    "AddtoCart":"Add to Cart",
+    "AddedToCart":"Added to Cart",
+    "OrderTheProductsToTheCustomer":"Order the products to the customer",
+    "ProductImage":"product image",
+    "ShippingPrice": "Shipping price",
+    "ProductName": "product name",
+    "TotalProducts": "total products",
+    "Price": "price",
+    "Archives": "Archives",
+    "TotalPrice": "total price",
+    "YourCartisEmpty": "Your Cart is Empty",
+    "AddSomethingToMakemeHappy:)": "Add something to make me happy :)",
+    "ContinueShopping": "Back to the store",
+    "Quantity": "quantity",
+    "Action": "action",
+    "Total": "total",
+    "ThankYou": "Thank you",
+    "YourRequestHasBeenProcessedSuccessfully": "Your request has been processed successfully",
+    "BackToHome": "back to home"
+  },
+  "commonWords": {
+    "yes": "Yes",
+    "no": "No",
+    "from": "From",
+    "to": "To",
+    "copy": "Copy",
+    "search": "Search",
+    "paymentBy": "Payment is made via",
+    "home": "Home",
+    "missions": "Missions",
+    "create-mission": "Create Mission",
+    "choose": "Choose",
+    "myJobs": "My Jobs",
+    "job": "Job",
+    "myServices": "My Services",
+    "myService": "My Service",
+    "ordersNumber": "Orders Number",
+    "requestDetails": "Request Details",
+    "TheDateTheRequestWasCreated": "The Date The Request Was Created",
+    "lastUpdate": "Last Update",
+    "myPromoCode": "Promo Codes",
+    "piece": "Piece",
+    "collections": "wholesale mall",
+    "create_backup-stock": "Create a shipping request",
+    "backup-stock": "Shipping Request",
+    "pressHere": "Press here",
+    "myStocks": "My Stocks",
+    "my_orders": "My Orders",
+    "taxFile": "Tax File",
+    "paymentWith": "Payment is made via",
+    "add": "add",
+    "remove": "remove",
+    "edit": "edit"
+  },
+  "time": {
+    "day": " day ",
+    "days": " days ",
+    "hours": " hours ",
+    "hour": " hour ",
+    "minutes": " minutes ",
+    "minute": " minute ",
+    "seconds": " seconds ",
+    "second": " second "
+  },
+  "currencies": {
+    "EGP": "EGP",
+    "SR": "SR",
+    "AED": "AED",
+    "KWD": "KWD",
+    "USD": "USD"
+  },
+
+  "error": {
+    "sorry": "We are sorry to inconvenience you in this way",
+    "message": "It seems that an error occurred .. or the page you want does not exist"
+  },
+
+  "alertPage": {
+    "evaluation": "Evaluate your satisfaction",
+    "satisfied": "Satisfied",
+    "notSatisfied": "Not Satisfied",
+    "thanks": "Thanks",
+    "link": "Promo Code Link",
+    "login": " login ",
+    "linkCreated": "Fawry payment link created successfully"
+  },
+
+  "fawry": {
+    "title": "Result of payment",
+    "close": "Close",
+    "reload": "Reload",
+    "paid": "Paid successfully",
+    "un_paid": "An Error occurred during the payment process"
+  },
+
+  "account-selection": {
+    "title": "Sign Up For Overtime , It's Free",
+    "p": "Choose From 2 Types Of Account",
+    "personal": "Personal Account",
+    "personal_p": "Description for Personal Account",
+    "business": "Business  Account",
+    "business_p": "Description for Business  Account",
+    "button": "Continue",
+    "side-bar-photo": {
+      "title": "Title For Side Bar",
+      "p": "Description For Side Bar"
+    },
+    "page": {
+      "title": "account selection",
+      "description": "Select Your Account Type"
+    }
+  },
+
+  "business-info": {
+    "title": "Tell Us About Your Business",
+    "p": "We Will Confirm You Information To Help Keep Your Account Secure",
+    "company_name": "Company Name",
+    "company_name_place_holder": "Enter Your Company Name",
+    "license_number": "License Number",
+    "license_number_place_holder": "Enter Your License Number",
+    "button": "Continue",
+    "page": {
+      "title": "Continue Registering",
+      "description": "Continue Enter Information About Your Business"
+    }
+  },
+
+  "business-step3": {
+    "title": "Step 3",
+    "p": "Please Continue Inserting Data",
+    "tax_number": "Tax Number",
+    "tax_number_place_holder": "Enter Your Tax Number",
+    "question": "Are You A Registered Value Added ?",
+    "value_added": "Value Added",
+    "value_added_place_holder": "Enter Your Value Added",
+    "button": "Continue",
+    "page": {
+      "title": "Continue Registering",
+      "description": "Continue Enter Information About Your Business"
+    }
+  },
+  "business-step4": {
+    "title": "Step 4",
+    "p": "Please Continue Inserting Data",
+    "employee_name": "Name of the responsible employee",
+    "employee_name_place_holder": "Enter the name of the responsible employee",
+    "phone": "Phone number",
+    "phone_place_holder": "Enter a phone number",
+    "code": "code",
+    "code_place_holder": "Enter the code that came to your phone",
+    "sendCodeAgain": "Did you not receive the code ? Send the code again",
+    "button": "Verify Phone Number",
+    "button2": "Continue",
+    "page": {
+      "title": "Continue Registering",
+      "description": "Continue Enter Information About Your Business"
+    }
+  },
+  "business-confirmation": {
+    "title": "confirmation",
+    "p": "Please confirm your Data",
+    "company_name": "Company Name",
+    "license_number": "License Number",
+    "tax_number": "Tax Number",
+    "value_added": "Value Added",
+    "employee_name": "Name of the responsible employee",
+    "phone": "Phone number",
+    "button": "Continue",
+    "page": {
+      "title": "Confirm Registering Data",
+      "description": "Please Confirm Your Registering Data"
+    }
+  },
+  "business-create-account": {
+    "title": "Create Account",
+    "p": "Please Fill The Form",
+    "country": "Country",
+    "country_place_holder": "Choose Country",
+    "email": "Email",
+    "email_place_holder": "Enter Email",
+    "employee_name": "Name of the responsible employee",
+    "employee_name_place_holder": "Enter the name of the responsible employee",
+    "employee_id": "Responsible employee id",
+    "employee_id_place_holder": "Enter Responsible employee id",
+    "business_type": "Business Type",
+    "business_type_place_holder": "Enter Business Type",
+    "company_location": "Company Location",
+    "company_location_place_holder": "Enter Company Location",
+    "password": "Password",
+    "password_place_holder": "Enter Password",
+    "password_confirmation": "Password Confirmation",
+    "password_confirmation_place_holder": "Enter Password Confirmation",
+    "logo": "Logo",
+    "commercial_register": "Commercial Register Photo",
+    "tax_card_copy": "Tax Card Photo",
+    "button": "Create",
+    "page": {
+      "title": "Create Account",
+      "description": "Create Account Page"
+    }
+  },
+
+  "personal-info": {
+    "title": "Tell Us About Your Business",
+    "p": "We Will Confirm You Information To Help Keep Your Account Secure",
+    "question": "Are You A Have Tax File ?",
+    "tax_number": "Tax Number",
+    "tax_number_place_holder": "Enter Your Tax Number",
+    "button": "Continue",
+    "page": {
+      "title": "Continue Registering",
+      "description": "Continue Enter Information About Your Business"
+    }
+  },
+  "personal-step3": {
+    "title": "Step 3",
+    "p": "Please Continue Inserting Data",
+    "employee_name": "Name of the responsible employee",
+    "employee_name_place_holder": "Enter the name of the responsible employee",
+    "phone": "Phone number",
+    "phone_place_holder": "Enter a phone number",
+    "code": "code",
+    "code_place_holder": "Enter the code that came to your phone",
+    "sendCodeAgain": "Did you not receive the code ? Send the code again",
+    "button": "Verify Phone Number",
+    "button2": "Continue",
+    "page": {
+      "title": "Continue Registering",
+      "description": "Continue Enter Information About Your Business"
+    }
+  },
+  "personal-confirmation": {
+    "title": "confirmation",
+    "p": "Please confirm your Data",
+    "tax_number": "Tax Number",
+    "employee_name": "Name of the responsible employee",
+    "phone": "Phone number",
+    "button": "Continue",
+    "page": {
+      "title": "Confirm Registering Data",
+      "description": "Please Confirm Your Registering Data"
+    }
+  },
+
+  "personal-create-account": {
+    "title": "Create Account",
+    "p": "Please Fill The Form",
+    "country": "Country",
+    "country_place_holder": "Choose Country",
+    "email": "Email",
+    "email_place_holder": "Enter Email",
+    "employee_name": "Name of the responsible employee",
+    "employee_name_place_holder": "Enter the name of the responsible employee",
+    "birthday": "birthday of the responsible employee",
+    "birthday_place_holder": "Enter the birthday of the responsible employee",
+    "employee_id": "Responsible employee id",
+    "employee_id_place_holder": "Enter Responsible employee id",
+    "business_type": "Business Type",
+    "business_type_place_holder": "Enter Business Type",
+    "password": "Password",
+    "password_place_holder": "Enter Password",
+    "password_confirmation": "Password Confirmation",
+    "password_confirmation_place_holder": "Enter Password Confirmation",
+    "logo": "Logo",
+    "id_card": "Id Photo",
+    "tax_card_copy": "Tax Card Photo",
+    "button": "Create",
+    "page": {
+      "title": "Create Account",
+      "description": "Create Account Page"
+    }
+  },
+
+  "myMissionCard": {
+    "home": "Home",
+    "myMissions": "My Missions",
+    "Required": "Required",
+    "Category": "Category",
+    "location": "Location",
+    "commission": "Commission",
+    "egp": "EGP",
+    "description": "Here you can see and browse your mission and see upcoming requests",
+    "no_mission_created": "No missions have been created before"
+  },
+
+  "statusForMyMissionCard": {
+    "succeed": "Succeed",
+    "cancelled": "Cancelled",
+    "payment_requested": "Payment Requested",
+    "expired": "Expired",
+    "inPreview": "In Preview",
+    "refuesd": "Refused",
+    "first10Dayes": "Cancel in progress",
+    "active": "Active"
+  },
+
+  "missionRequestsPage": {
+    "home": "Home",
+    "myMissions": "My Missions",
+    "requests": "Requests",
+    "from": "from",
+    "to": "to",
+    "editMyMission": "Edit My Mission",
+    "renewMyMission": "Renew My Mission",
+    "cancelMyMission": "Cancel My Mission",
+    "Required": "Required",
+    "Category": "Category",
+    "location": "Location",
+    "requestNumber": "Request Number",
+    "commission": "Commission",
+    "egp": "EGP",
+    "number": "Number",
+    "clientName": "Client Name",
+    "status": "Status",
+    "confirm": "Are you sure you want to cancel the Mission?",
+    "cancelMissionMsg": "The mission has been successfully cancelled. Wait 10 days until you can get your money back..",
+    "renewMissionMsg": "The mission has been successfully renew",
+    "codeNumber": "transaction code",
+    "note": "note :",
+    "mission_waring": "You can cancel your task at any time and get a refund of the total value of the commissions in the event that your task is not successfully implemented as stipulated by the platform policy."
+  },
+
+  "statusForMissionRequestsPage": {
+    "succeed": "Succeed",
+    "cancelled": "Cancelled",
+    "pending": "Pending"
+  },
+
+  "createMissionPage": {
+    "createTask": " Create new mission ",
+    "editTask": " Edit mission ",
+    "taskTitle": " Mission Title",
+    "taskTitle_p": "Enter Mission Title",
+    "LeaveUsFillCategoryRequired": "Leave us to fill in the category and required",
+    "Category": "Category",
+    "Required": "Required",
+    "country": " country ",
+    "city": "city",
+    "TaskDetails": " mission details ",
+    "TaskDetails_p": "Enter mission details ",
+    "RequiredDetails": "mission required information ",
+    "RequiredDetails_p": "Enter mission required information",
+    "taskValue": "Mission Value",
+    "taskValue_p": "Enter Mission Value",
+    "taskValue_p2": "The total amount after adding 20% ​​is",
+    "location": " Location ",
+    "location_p": "Enter Location",
+    "EnterLocation": " Enter the target location ",
+    "endDate": "Mission End Date",
+    "endDate_p": "Enter Mission End Date",
+    "MediaForMission": "Mission pictures",
+    "MediaForMission_2": "Mission video",
+    "IsTaskRelatedToSite": "Is the task linked to a specific place?",
+    "IsTaskRelatedToDeadLine": "Is the task linked to a specific time?",
+    "rules": "To create your account, you must agree to be bound by the ",
+    "rules_2": "Terms of Use",
+    "SuccessMsg": "The Mission has been created successfully.. All you have to do is pay",
+    "pay": "Pay the commission to start the offer",
+    "waitForPay": "Please note that the task will not be displayed until payment",
+    "commission": "Marketer's Commission",
+    "overtimeCommission": "Overtime Commission",
+    "total": "Total",
+    "pay2": "Pay"
+  },
+
+  "editMissionPage": {
+    "edit": "Edit Mission",
+    "SuccessMsg": "The Mission has been updated successfully",
+    "description": "Edit Your Mission",
+    "check": "The mission will be paused and will be shown again after reviewing the modifications"
+  },
+
+  "missionPage": {
+    "home": "Home",
+    "missions": "Missions",
+    "missionDetails": "Mission Details",
+    "missionEndDate": "Mission End Date",
+    "category": "Category",
+    "required": "Required",
+    "commission": "Commission",
+    "requiredTaskDetails": "Required Task Details",
+    "missionDescription": "Mission Description",
+    "clientNomination": "Client Nomination",
+    "clientName": "Client Name",
+    "clientName_p": "Enter Client Name",
+    "clientPhoneNumber": "Client Phone Number",
+    "clientPhoneNumber_p": "Enter Client Phone Number",
+    "clientPhoneNumber_p2": "Enter Client Phone Number To Contact ",
+    "notes": "Notes",
+    "notes_p": "Enter Notes to us",
+    "submit": "Submit",
+    "egp": "EGp",
+    "count": "Count",
+    "copy": "Copy",
+    "location": "Location",
+    "SuccessMsg": "Request Created Successfully",
+    "description": "Here you can browse the tasks and accomplish what suits you from them and take a valuable commission from them",
+    "upgrade_massage": "An account must be upgraded to the professional level in order to work on the mission earning system"
+  },
+
+  "missionCard": {
+    "category": "Category",
+    "required": "Required",
+    "location": "Location",
+    "commission": "Commission"
+  },
+
+  "requestPageForMission": {
+    "home": "Home",
+    "mission": "Mission",
+    "requestDetails": "Request Details",
+    "Category": "Category",
+    "Required": "Required",
+    "TheDateTheRequestWasCreated": "The DateT he Request Was Created",
+    "lastUpdate": " lastUpdate ",
+    "attachments": " attachments ",
+    "clientDetails": "Client Details",
+    "name": "Name",
+    "phone": "Phone Number",
+    "comment": "Comment",
+    "done": "Done",
+    "cancellation": "Cancellation",
+    "confirm": "Are you sure you want to accept this request?",
+    "doneRequestMsg": "The Mission has been successfully executed",
+    "confirm2": "Are you sure you want to refuse this request?",
+    "cancelledRequestMsg": "This request has been rejected",
+    "possibleRequestMsg": "This request is currently possible",
+    "possible": "Possible",
+    "sent": "Information Sent"
+  },
+
+  "jopCard": {
+    "salary": "Salary",
+    "count": "Available opportunities",
+    "location": "Location",
+    "commission": "Commission",
+    "opportunity": "Opportunity",
+    "opportunities": "Opportunities"
+  },
+
+  "jobPage": {
+    "pageTitle": "Manage my job",
+    "pageDescription": "Here you can manage your job and manage your job orders",
+    "edit": "Job Edit",
+    "ordersNumber": "Orders Number",
+    "commission": "Marketer commission",
+    "pay": "Pay the commission to start the offer ",
+    "overtimeCommission": "Overtime Commission",
+    "total": "Total",
+    "pay2": "Pay",
+    "waitForPay": "Please note that the job will not be show until payment",
+    "job_waring": "You can cancel your job at any time and get a refund of the total amount of commissions if your job is not executed successfully as stipulated by the platform policy",
+    "upgrade_massage": "You must upgrade the professional level account in order to be able to work on the jobs projects profit system",
+    "no_jobs_created": "You have not created a job yet"
+  },
+
+  "jobOrders": {
+    "number": "Number",
+    "codeNumber": "Transaction code",
+    "clientName": "Client Name",
+    "status": "Status"
+  },
+
+  "statusForJobOrders": {
+    "new": "New",
+    "nominated": "Nominated",
+    "success": "Successful",
+    "cancelled": "Cancelled"
+  },
+  "cancelJobOrderModal": {
+    "cancel": "Cancel",
+    "cancelOrder": "Cancel Order",
+    "cancel_reason": "Cancel Reason",
+    "cancel_reason_place_holder": "Enter Cancel Reason",
+    "warn": "In case of manipulation, double the commission will be claimed",
+    "close": "Close",
+    "confirm": "Confirm Cancellation"
+  },
+
+  "createJobPage": {
+    "pageTitle": "Create a Job",
+    "pageDescription": "Here you can create your job application",
+    "title": "Job title",
+    "title_placeholder": "Enter the job title",
+    "country": "Country ",
+    "city": "City",
+    "allowTime": "Confirmation period (the commission is due when the worker completes this period)",
+    "14Days": "14 Days",
+    "7Days": "7 Days",
+    "description": "Job description",
+    "description_placeholder": "Enter Job description",
+    "job_requirements": "Job requirements",
+    "job_requirements_placeholder": "Enter job requirements",
+    "job_address": "Job address",
+    "job_address_placeholder": "Enter job address",
+    "commission": "Commission",
+    "commission_placeholder": "Enter Commission",
+    "commission_p": "The commission is divided by 50% for marketers and 50% for overtime",
+    "salary": "Salary",
+    "salary_placeholder": "Enter salary",
+    "apply_value": "Apply Value",
+    "apply_value_placeholder": "Enter Apply Value",
+    "jobs_number": "The number of opportunities available",
+    "jobs_number_placeholder": "Enter the number of opportunities available",
+    "gallery": "Photo Gallery",
+    "rules": "To create Jobs, you must agree to be bound by the ",
+    "rules_2": "Terms of Use",
+    "submit": "Create Job",
+    "SuccessMsg": "Job Created Successfully"
+  },
+  "editJobPage": {
+    "pageTitle": "Edit a Job",
+    "pageDescription": "Here you can Edit your job application",
+    "submit": "Edit Job",
+    "SuccessMsg": "The job has been updated successfully",
+    "check": "The job offer will be stopped and will be offered again after reviewing the modifications"
+  },
+
+  "serviceCard": {
+    "availablePlaces": "Available Opportunities",
+    "title": "Services",
+    "category": "Type",
+    "commission": "Seller Commission"
+  },
+
+  "servicePage": {
+    "pageTitle": "Manage My Service",
+    "edit": "Service Edit",
+    "availablePlaces": "Available Places",
+    "commission": "Commission",
+    "seller_commission": "50% Marketer Commission",
+    "overtime_codeNumber": "50% Overtime commission"
+  },
+
+  "orders": {
+    "number": "Number",
+    "codeNumber": "Transaction code",
+    "clientName": "Client Name",
+    "status": "Status"
+  },
+  "statusForServiceOrders": {
+    "new": "New",
+    "pending": "Pending",
+    "success": "Successful",
+    "cancelled": "Cancelled",
+    "scheduled": "Scheduled"
+  },
+
+  "serviceOrder": {
+    "unique_id": "Transaction code",
+    "country": "Country",
+    "cities": "Cities",
+    "customer_order": "Customer Order",
+    "notes": "Notes",
+    "status": "Status"
+  },
+
+  "clientDetails": {
+    "details": "Client Details",
+    "name": "Name",
+    "phone": "Phone Number"
+  },
+
+  "EditService": {
+    "pageTitle": "Edit Service",
+    "pageDescription": "Here you can edit your Service ",
+    "title": "Title",
+    "title_placeholder": "Enter the service title",
+    "category": "Category",
+    "country": "Country",
+    "cities": "Cities",
+    "description": "Service description",
+    "description_placeholder": "Enter Service description",
+    "offers": "Service Offers",
+    "offers_placeholder": "Enter Service Offers",
+    "gallery": "Photo Gallery",
+    "video": "Video",
+    "submit": "Request Edit",
+    "SuccessMsg": "The Request Edit Sent Successfully .. Please Wait Until Reviewed & Responded"
+  },
+
+  "promoCodeCard": {
+    "discountValue": "Discount Value",
+    "availablePlaces": "Available Places",
+    "category": "Category",
+    "commission": "Marketer commission"
+  },
+  "promoCodePage": {
+    "pageTitle": "Manage my promo code",
+    "edit": "Edit My PromoCode",
+    "availablePlaces": "Available Places",
+    "commission": "Commission",
+    "seller_commission": "50% Marketer Commission",
+    "overtime_codeNumber": "50% Overtime commission"
+  },
+
+  "statusForPromoCodeOrders": {
+    "succsed": "Successful",
+    "activated": "Activated",
+    "expired": "Expired"
+  },
+
+  "promoCodeOrder": {
+    "unique_id": "Transaction code",
+    "country": "Country",
+    "cities": "Cities",
+    "notes": "Notes",
+    "status": "Status",
+    "remainTime": "Remain Time"
+  },
+
+  "EditPromoCode": {
+    "pageTitle": "Edit Promo Code",
+    "pageDescription": "Here you can edit your Promo Code ",
+    "title": "Title",
+    "title_placeholder": "Enter the Promo Code title",
+    "category": "Category",
+    "country": "Country",
+    "cities": "Cities",
+    "description": "Promo Code description",
+    "description_placeholder": "Enter Promo Code description",
+    "gallery": "Photo Gallery",
+    "discount_code": "discount Value",
+    "discount_code_placeholder": "Enter discount Value",
+    "ad_formats": "Advertising formats",
+    "ad_formats_placeholder": "Enter Advertising formats",
+    "submit": "Request Edit",
+    "SuccessMsg": "The Request Edit Sent Successfully .. Please Wait Until Reviewed & Responded"
+  },
+
+  "productCollectionCard": {
+    "country": "Country",
+    "quantity": "Quantity",
+    "price": "Price"
+  },
+  "productCollectionPage": {
+    "details": "Wholesale details",
+    "country": "Country",
+    "quantity": "Quantity",
+    "price": "Price",
+    "taxFile": "Tax File",
+    "copy": "Copy",
+    "shipping_prices": "Shipping Prices",
+    "description": "Description",
+    "type&stock": "Type & Stock",
+    "order": "Order",
+    "modal": {
+      "shipping_to": "Shipping to",
+      "choosePlace": "Choose where to ship",
+      "overtime_store": "My store in overtime",
+      "vendor_store": "Else where",
+      "city": "City",
+      "chooseCity": "Select the city",
+      "stock_type": "Storage Place",
+      "choose_stock_type": "Choose a storage location",
+      "address": "Address",
+      "address_placeholder": "Enter Address",
+      "note": "Note :",
+      "note_placeholder": "Enter Note",
+      "total": "Total",
+      "available_to_sell": "View on the platform",
+      "submit": "Purchase Order"
+    },
+    "storage_commission": "Storage Commission",
+    "sellingPrice": "selling Price",
+    "MerchantOwed": "Vendor Owned",
+    "user_commission": "User Commission",
+
+    "SuccessMsg": "Please Pay To Send The Order"
+  },
+  "backup-stock-page": {
+    "title": "Request Title",
+    "title_placeholder": "Enter Request Title",
+    "description": "Request Description",
+    "description_placeholder": "Enter Request Description",
+    "country": "Country",
+    "city": "City",
+    "address": "Address",
+    "address_placeholder": "Enter Address",
+    "responsible_name": "Responsible Name",
+    "responsible_name_placeholder": "Enter Responsible Name",
+    "responsible_phone": "Responsible Phone Number",
+    "responsible_phone_placeholder": "Enter Responsible Phone Number",
+    "SuccessMsg": "The Request was created successfully.. Add your product now",
+    "submit": "Next"
+  },
+
+  "backup-stock-page_step_2": {
+    "pageTitle": "Complete the Shipping request",
+    "country": "Country",
+    "product": "Product",
+    "ifUnavailable": "If the product you want is not available",
+    "color": "Color",
+    "size": "Size",
+    "type": "Type",
+    "quantity": "Quantity",
+    "add": "Add",
+    "stockSuccessMsg": "Stock added successfully",
+    "actions": "Actions",
+    "deleteRequest": "Are you sure you want to delete this item?",
+    "submit": "Send request",
+    "SuccessMsg": "The request has been sent successfully"
+  },
+
+  "createProductModal": {
+    "title": "Product Name",
+    "title_placeholder": "Enter Product Name",
+    "description": "Product Description",
+    "description_placeholder": "Enter Product Description",
+    "price": "Price",
+    "price_placeholder": "Enter Price",
+    "storage_commission": "Storage Commission",
+    "color_exists": "Are there colors for this product ?",
+    "color": "Color",
+    "color_placeholder": "Enter Color",
+    "size_exists": "Are there sizes for this product ?",
+    "size": "Size",
+    "size_placeholder": "Enter Size",
+    "gallery": "Gallery",
+    "video": "Video",
+    "add": "Add",
+    "submit": "Create the product"
+  },
+
+  "orderProduct": {
+    "button_name": "New Order",
+    "clientName": "Client Name",
+    "clientName_placeholder": "Enter Client Name",
+    "clientPhone": "Client Phone",
+    "clientPhone_placeholder": "Enter Client Phone",
+    "clientAddress": "Client Address",
+    "clientAddress_placeholder": "Enter Client Address",
+    "city": "City",
+    "note": "Note :",
+    "note_placeholder": "Enter Note",
+    "size": "Size",
+    "color": "Color",
+    "type": "Type",
+    "total": "Total",
+    "p": "Do you want to sell at another price?",
+    "price": "Price",
+    "price_placeholder": "Enter Price",
+    "shipping_prices": "Shipping expenses",
+    "storage_commission": "Storage Commission",
+    "merchantOwed": "Vendor Owned",
+    "p2": "This is the final price we will get from the customer",
+    "order": "Order",
+    "SuccessMsg": "The Order has been sent successfully"
+  },
+
+  "ControlStock": {
+    "price": "Selling Price",
+    "price_placeholder": "Enter Price",
+    "storage_commission": "Storage Commission",
+    "commission": "Commission",
+    "commission_placeholder": "Enter Commission",
+    "sellingPrice": "Selling Price",
+    "vendor_money": "Vendor money",
+    "submit": "Visibility Request",
+    "SuccessMsg": "The Request Sent Successfully"
+  },
+
+  "updateProduct": {
+    "button_name": "Edit Advertising Content",
+    "advertising_content": "Advertising Content",
+    "advertising_content_placeholder": "Enter Advertising Content",
+    "add": "Add",
+    "remove": "Remove",
+    "submit": "Send Update Request",
+    "SuccessMsg": "Your ad content modification request has been sent successfully"
+  },
+
+  "stock_control_page": {
+    "page_title": "Inventory management",
+    "increase_stock": "Stock Supply",
+    "country": "Country",
+    "p": "Marketing through the Overtime platform",
+    "stock": "Stock :",
+    "storage_commission": "Storage Commission",
+    "marketing_commission": "Marketing Commission",
+    "selling_price": "Selling Price",
+    "merchantOwed": "Merchant owed",
+    "before": "before you",
+    "your_turn": "Your turn",
+    "after": "after you",
+    "size-color": "Size - Color",
+    "type": "Type",
+    "last_addition": "Last Addition",
+    "count": "Count",
+    "warn": "Are you sure you want to hide inventory? You will lose your turn"
+  },
+
+  "StockCard": {
+    "country": "Country",
+    "stock": "Stock",
+    "p": "Marketing through the Overtime platform",
+    "storage_commission": "Storage Commission",
+    "marketing_commission": "Marketing Commission",
+    "selling_price": "Selling Price",
+    "merchantOwed": "Merchant owed"
+  },
+
+  "vendor_orders": {
+    "order_number": "Order Number",
+    "count": "Pieces Number",
+    "status": "Status",
+    "type": "Type",
+    "updated_at": "Last Update"
+  },
+
+  "vendor_orders_types": {
+    "stock_collection": "Shipping Request",
+    "product_collection": "Wholesale mall"
+  },
+
+  "vendor_orders_status": {
+    "new": "New",
+    "shipping": "Shipping",
+    "successful": "Successful",
+    "cancelled": "Cancelled"
+  },
+
+  "transactions": {
+    "details": "Transaction Details",
+    "info": "Transaction Data",
+    "order_number": "Transaction Number",
+    "product_collection_name": "Wholesale Product Name",
+    "product_count": "Products Number",
+    "created_at": "Created At",
+    "updated_at": "Updated At",
+    "status": "Status",
+    "order_derails": "Order Data",
+    "shipping_to": "Shipping to",
+    "address": "Address",
+    "shipping_price": "Shipping Rate",
+    "count": "Count",
+    "stock_count": "Pieces Number",
+    "title": "Title",
+    "stockDetails": "Stock Details"
+  },
+  "shipping_to": {
+    "vendor_store": "Else where",
+    "overtime_store": "My store is in overtime"
+  },
+
+  "stock-nav": {
+    "my_stock": "My Store",
+    "product_collection": "Wholesale Mall",
+    "orders": "My Orders",
+    "stock_control": "Inventory management",
+    "search": "Search"
+  },
+
+  "addStockModal": {
+    "supply": "Supply my store with products",
+    "supply_collection": "Supply from wholesale",
+    "from_home": "Shipping from home"
+  },
+
+  "fullNavBar": {
+    "my_business": "My Business",
+    "transactions": "Transactions",
+    "product_collection": "Wholesale Mall",
+    "my_stock": "My Stock",
+    "missions": "Missions",
+    "technical_support": "Technical Support",
+    "training_center": "Training Center",
+    "account": "Personal Account",
+    "balance": "Balance",
+    "settings": "Setting",
+    "logout": "Logout"
+  },
+
+  "sideNavBar": {
+    "nomination": "Marketer Nomination",
+    "my_jobs": "My Jobs",
+    "my_services": "My Services",
+    "my_promo_code": "My Promo Codes",
+    "my_mission": "My Missions",
+    "my_products": "My Products"
+  },
+
+  "loginPage": {
+    "login": "Log In",
+    "new_user": "New user ?",
+    "codeAndPhone": "Code / Phone Number",
+    "codeAndPhonePlaceholder": "Enter Code / Phone Number",
+    "password": "Password",
+    "passwordPlaceholder": "Enter Password",
+    "forgetPassword": "Forget Password ?",
+    "create_account": "Create Account"
+  },
+
+  "training-center": {
+    "title": "Training Center",
+    "description": "Learn how to use the Overtime platform and how to make money through it"
+  },
+
+  "balancePage": {
+    "home": "home",
+    "balance": "balance",
+    "currentBalance": " current Balance ",
+    "previousTransfers": " previous Transfers",
+    "title": "Balance page",
+    "description": "Here you can withdraw your balance or see the balance transferred to you",
+    "transferDate": "transfer Date",
+    "status": "status",
+    "amount": " amount",
+    "type": "type",
+    "comment": "comment",
+    "attachments": " attachments ",
+    "cancelled": "cancelled",
+    "succeed": "succeed",
+    "pending": "pending",
+    "SuccesMag": "Balance withdrawal request succeeded, wait 48 hours for the transfer",
+    "errMag": "There is a problem, wait a while to talk to customer service",
+    "TransactionCode": " Transaction Code",
+    "profitSystem": "profit System",
+    "profitvalue": "profit value",
+    "totalbalance": "total balance",
+    "Minimumwithdrawal": " Minimum withdrawal ",
+    "withdrawal": "withdrawal Balance",
+    "AddNewWays": " Add New Ways ",
+    "team-earnings": "Team Earnings",
+    "weekly-earnings": "Your weekly earnings from the team",
+    "jobs": "Jobs",
+    "services": "Services",
+    "products": "Products",
+    "promocode": "Promocode",
+    "Real-estate": "Real Estate",
+    "missions": "Missions",
+    "weekly-rewards": "Weekly Rewards",
+    "why": "Why is there a minimum withdrawal limit ?",
+    "close": "close",
+    "withdrawWithCond": "Withdrawals without a minimum",
+    "small": "Do not forget to choose a withdrawal method and then click on Withdraw without minimum",
+    "warn": "10% of your balance will be deducted Are you sure you want to withdraw?",
+    "quickWithDraw": {
+      "text1": "Total amount: 1500 pounds",
+      "text2": "Number of transfers: one transaction",
+      "text3": "Number of Transfers: 5 Transactions",
+      "text4": "Lots of transactions = lots of cost",
+      "text5": "To ensure the continuity of our services with high quality, please note that the minimum withdrawal amount without fees is 1500 EGP. You can use express withdrawals (without minimum), knowing that a fee of 10% of the amount will be deducted as transfer fees"
+    },
+    "withdrawalMethod": "Choose the withdrawal method",
+    "order_number": "Order number",
+    "credit": "Credit"
+  },
+
+  "ballance-table": {
+    "amount": " Amount",
+    "ballance": "Ballance",
+    "comment": "Comment",
+    "date": "Date",
+    "created_at": "Created At",
+    "actions": "Actions"
+  },
+
+  "payment_request": {
+    "debit": "Withdrawal",
+    "credit": "Deposit"
+  },
+
+  "prev-balance-status": {
+    "new": "New",
+    "pending": "Pending",
+    "success": "Successful",
+    "cancelled": "Cancelled"
+  },
+
+  "settingPage": {
+    "setting": "settings",
+    "profile": "Profile Photo",
+    "idCard": "Id Cards",
+    "edit": "Edit information",
+    "updatePhoto": "Update Avatar",
+    "password": " New Password",
+    "SuccessMag": "The avatar has been updated",
+    "description": "Edit and see your settings and withdraw your balance also for your work with the Overtime platform",
+    "confirmAccount": "Confirm Account",
+    "confirmAccount_p": "Confirm account identity",
+    "confirmDone": "The identity of the account has been confirmed successfully"
+  },
+
+  "addToWalletPage": {
+    "AddElectronicWallet": " Add digital wallets ",
+    "wallet_name": " Wallet type ",
+    "vodafone_cash": "vodafone Cash",
+    "etisalat_cash": "Etisalat Cash",
+    "weCash": "We Cash",
+    "orangeCash": "Orange Cash",
+    "bankTransfer": "Bank Transfer",
+    "account_number": "Account Number",
+    "account_number_p": "Enter Account Number",
+    "addWallet": "Add Wallet",
+    "description": "From here, you can add a new electronic wallet to withdraw your balance",
+    "successMsg": "Wallet added successfully"
+  },
+
+  "addBankAccount": {
+    "AddBank": "Add Bank Account",
+    "AddBankAccount": "Add Bank Account ",
+    "bankName": "Bank Name",
+    "bankName_p": "Enter Bank Name",
+    "AccountName": " Account Owner Name",
+    "AccountName_p": " Enter Account Owner Name ",
+    "accountNumber": "Account Number",
+    "accountNumber_p": " Enter Account Number",
+    "swift_code_p": "Enter The Swift Code",
+    "branch_name": "branch name ",
+    "branch_name_p": "Branch Name",
+    "add_account": "Add Account",
+    "description": "From here, you can add a new bank account to withdraw your balance",
+    "successMsg": "Account added successfully"
+  },
+
+  "addMizaCard": {
+    "AddBank": "Add Miza Card",
+    "account_number": " Card Number",
+    "account_number_p": "Enter Card Number",
+    "description": "From here, you can add a new miza card to withdraw your balance",
+    "successMsg": "Miza Card added successfully",
+    "warn": "It is better if this card is yours",
+    "warn2": "It is best to check the card number"
+  },
+
+  "wallets_page": {
+    "profitTransferData": "Profit Transfer Data",
+    "recordedRoutes": "Recorded Routes",
+    "addNewWays": "Add New Ways",
+    "addElectronicWallet": "Add Electronic Wallet",
+    "addBankAccount": "Add Bank Account",
+    "addMizaCard": "Add Miza Card"
+  },
+
+  "withdrawal-deposit-actions": {
+    "title": "Withdrawals and deposits Processes",
+    "deposit": "Deposit Process",
+    "withdrawal": "Withdrawal Process ",
+    "withdrawal_method": "Withdrawal Method",
+    "code": "Code",
+    "account_number": "Account Number",
+    "amount": "Amount",
+    "status": "Status",
+    "created_at": "Created At",
+    "updated_at": "Updated At",
+    "attachment": "Attachments & Commentary",
+    "comment": "Commentary"
+  },
+
+  "supportTicketPage": {
+    "supportTicket": "Open a support ticket",
+    "pageTitle": "Support ticket",
+    "title": "The title of the problem",
+    "type": "Problem type",
+    "description": "Tell us what problem you are facing",
+    "addImages": "Add attachments",
+    "send": " Send",
+    "successMsg": "Support request has been sent",
+    "communication": "Communication",
+    "status": "Status",
+    "open": "Open",
+    "progress": "Progress",
+    "solved": "Solved",
+    "closed": "Closed",
+    "showTicket": "See your support request",
+    "technical-support": "Technical Support",
+    "user_team_earnings": "Team Earnings ",
+    "user_invite": "user invite",
+    "real_estate": "real Estates",
+    "promocode": "Promo Codes",
+    "mission": "Missions",
+    "service": "Services",
+    "product": "Products",
+    "job": "Jobs",
+    "another": "Another",
+    "team_profit_title": "Weekly profit percentage",
+    "bonus_title": "Weekly Rewards"
+  },
+  "chat": {
+    "p": "Please rate your experience with technical support",
+    "happy": "Happy",
+    "normal": "Normal",
+    "sad": "Sad",
+    "rate": "Rate",
+    "say": "Tell Us What Do You Want",
+    "submit": "Send",
+    "successMsg": "The review has been sent successfully"
+  },
+
+  "support_request_table": {
+    "transaction_number": "Transaction Number",
+    "status": "Status",
+    "created_at": "Created At",
+    "updated_at": "Updated At"
+  },
+
+  "badge": {
+    "warning": "Warning",
+    "noticeable": "Noticeable",
+    "target_customers": "Target Customers"
+  },
+
+  "transactionPage": {
+    "transactions": "Transactions",
+    "transactionCode": "Transaction Code",
+    "transactionData": "Transaction Data",
+    "profitSystem": "Profit System",
+    "serviceName": "Service Name",
+    "count": "Pieces Number",
+    "product": "Products",
+    "overtime_order": "Products",
+    "normal": "Products",
+    "job": "Jobs",
+    "promocode": "Promocodes",
+    "service": "Services",
+    "real_estate": "Real Estate",
+    "mission": "Mission",
+    "team_profit": "Team Earnings",
+    "invite_bonuses": "Team Earnings",
+    "bouns": "Team Earnings",
+    "user_invitations": "Team Earnings",
+    "invite_users": "Team Earnings",
+    "team_profit_title": "Your weekly profit percentage",
+    "invite_bonuses_title": "Weekly Rewards",
+    "bouns_title": "Weekly Rewards",
+    "user_invitations_title": "Invite User",
+    "invite_users_title": "Invite User",
+    "status": "Status",
+    "success": "Successful",
+    "succsed": "Successful",
+    "succeed": "Successful",
+    "transfer_done": "transfer successful",
+    "nominated": "nominated",
+    "delivered": "delivered",
+    "pending": "Communication with the client",
+    "new": "Confirmation with the client",
+    "cancelled": "Cancelled",
+    "scheduled": "Scheduled",
+    "payment_required": "Payment required",
+    "schedualed": "Scheduled",
+    "expired": "Expired",
+    "activated": "Active",
+    "shipping": "Shipping",
+    "note": "Note:",
+    "p": "As an Overtime marketer, you have the right to claim double the commission in the event of any wrong result of a transaction resulting in withholding profit from the marketer.",
+    "custmorRefused": "The customer refused the offer",
+    "customrData": "Customer Inforamtion",
+    "name": "Name",
+    "phone": "Phone number",
+    "comment": "Comment",
+    "weekStart": "Beginning of the week",
+    "weekEnd": "End of the week",
+    "price": "Price",
+    "review": "Are you sure it has been reviewed with the customer?",
+    "review2": "review",
+    "remainTime": "Remain Time",
+    "paymentUrl": "Payment link",
+    "waitingForPayment": "The period available for payment",
+    "payment_history_title": "Balance",
+    "payment_history": "profit withdrawal",
+    "withdrawal_method": "Withdrawal method",
+    "account_number": "account number",
+    "comment_attachment": "Comment/Attachment",
+    "support": "Open Support Ticket",
+    "reason": "Cancelled Reason",
+    "ReviewWithClient": "Review with the customer",
+    "revisionDone": "Revision Done",
+    "created_at": "Created At",
+    "updated_at": "Updated At"
+  },
+  "teamProfit": {
+    "home": "Home",
+    "teamProfit": "Team Earnings",
+    "p": "Profit from registering for each friend and added to the team list and earn 10% more on your profits in 5 different systems",
+    "personalCodenum": " personal code",
+    "copy": "copy",
+    "addFormat": "add Format",
+    "timeToEnd": "The rest of the week",
+    "timeToEnd_p": "The bonus and team earnings are calculated after the end of the week",
+    "teamMember": "Team List",
+    "number": "number",
+    "code": "code",
+    "present": "Profit Ratio",
+    "description": "From here you can know your profits through your team",
+    "partner": "partner",
+    "p_2": "weekly profit percentage",
+    "weeklyRewards": "Weekly Rewards",
+    "commission": "Commission Value",
+    "beginner": "beginner",
+    "professional": "professional",
+    "conditions": " conditions ",
+    "Nominations": "Nominations",
+    "Bonus": "Bonus",
+    "orMore": "Or More",
+    "country": "Country",
+    "teamEarnings": "Your earnings from the team",
+    "nominated": "You nominated",
+    "thisMonth": "friends this week",
+    "link": "Registration link",
+    "noOne": "No one has been nominated yet."
+  },
+
+  "setting-side-bar": {
+    "personal-data": "Personal Data",
+    "account": "Personal Account",
+    "with_drawl_methods": "Withdrawal Methods"
+  },
+
+  "profile": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "change_password": "Change Password",
+    "old_password": "Old Password",
+    "country": "Country",
+    "currency": "Currency",
+    "logo": "Logo",
+    "update_photo": "Update Photo",
+    "password_confirmation": "Password Confirmation",
+    "submit": "Submit"
+  },
+
+  "levels": {
+    "level": "level",
+    "starter": "Personal Account",
+    "active": "Company Account",
+    "vip": "Partner Account"
+  },
+
+  "levelPage": {
+    "starter": "Personal",
+    "active": "Company",
+    "vip": "Partner",
+    "promotion_terms": "Promotion Terms",
+    "starterLevel": "❌ He is not allowed to work outside the account country, even upgrading to the active level.<br> ❌ He is not allowed to work on a profit system (real estate projects). <br> ✅ Get a free certified marketing course when upgrading to the active level.",
+    "partnerLevel": "✅ It can work on all countries available on the platform. <br> ✅ He can work on a profit system (real estate projects). <br>✅ Obtaining a free certified marketing course once you register",
+    "companyLevel": "✅ It can work on all countries available on the platform. <br> ✅ Get a free certified marketing course once you upgrade. <br> ❌ He is not allowed to work on a profit system (real estate projects).",
+    "whenActive": "- Upgrade to active level automatically when your earnings reach 1500 EGP."
+  },
+
+  "LoadingPage": {
+    "loading": "Loading ..."
+  },
+
+  "transactionsTable": {
+    "pending": "Underway",
+    "successful": "Successfully",
+    "cancelled": "Cancelled",
+    "all": "All",
+    "transactionCode": "Transaction Code",
+    "profitSystem": "Profit System",
+    "serviceName": "Service Name",
+    "clientName": "Client Name",
+    "commissionAmount": "Commission Amount",
+    "communication": "communication",
+    "reviewed": "reviewed"
+  },
+
+  "forgetPassword": {
+    "title": "Forgot Password",
+    "title2": "Change Password",
+    "phone_number": "phone number",
+    "phone_number_p": "Enter your number and wait for a message with the secret code",
+    "small_1": "make sure your number starts with 0",
+    "confirm": "confirm",
+    "code": "Secret code",
+    "code_p": "Enter the secret code"
+  },
+
+  "notify": {
+    "seeMore": "See More",
+    "title": "Notifications"
+  },
+
+  "footer": {
+    "home": "Home",
+    "transactions": "Transactions",
+    "myMissions": "My Missions",
+    "dashboard": "Dashboard",
+    "trainingCenter": "Training Center",
+    "profitSystem": "Profit System",
+    "products": "Products",
+    "team_earnings": "Team Earnings",
+    "promo_codes": "Promo Codes",
+    "real_estate": "Real Estate",
+    "services": "Services",
+    "jobs": "Jobs",
+    "missions": "Missions",
+    "technical-support": "Technical Support",
+    "shipped": "Shipping is done",
+    "contactUS": "Contact US",
+    "paidBy": "Pay by",
+    "links": "Links"
+  },
+
+  "filter": {
+    "title": "Advanced site search",
+    "country": "Country",
+    "city": "City",
+    "category": "Category",
+    "sub_category": "Sub Category",
+    "sort_by": "Sort by",
+    "highest_profit": "Highest Profit",
+    "lowest_profit": "Lowest Profit",
+    "search": "Search",
+    "custom": "Customize"
+  },
+  "advancedSettingsPage": {
+    "home": "Home",
+    "advancedSettings": "Advanced Settings",
+    "aboutUs": "Information About Us",
+    "privacyAndUse": "Privacy And Use",
+    "closeAcc": "Close Account",
+    "NotificationAlert": "Notification Alert",
+    "ShowBalance": "Show Balance",
+    "language": "Language",
+    "description": "You can control as many features as you want ",
+    "usage-policy": "Usage Policy"
+  },
+
+  "dashboard": {
+    "title_1": "The beginning of your shop",
+    "title_2": "The new online",
+    "my_mission": "My Missions",
+    "my_promo_code": "My Promo Codes",
+    "my_jobs": "My Jobs",
+    "my_services": "My Services",
+    "my_products": "My Products",
+    "team_earnings": "Your Earnings",
+    "wholesale_mall": "Wholesale Mall",
+    "wholesale_mall_p": "Wholesale Mall",
+    "my_store": "My Store",
+    "my_store_p": "My Store",
+    "sellers_count": " The number of marketers on the Overtime platform"
+  }
+}

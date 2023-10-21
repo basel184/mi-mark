@@ -1,0 +1,1358 @@
+{
+  "cart":{
+    "TotalStorageCommissions": "اجمالي عمولات التخزين",
+    "AddtoCart": "اضف الي السلة",
+    "AddedToCart":"تم الإضافة للسلة",
+    "OrderTheProductsToTheCustomer":"اطلب المنتجات للعميل ",
+    "ProductImage": "صورة المنتج",
+    "ShippingPrice": "سعر الشحن ",
+    "ContinueShopping": "الرجوع الي المخزن",
+    "ProductName": "اسم المنتج",
+    "TotalProducts": "مجموع المنتجات",
+    "Price": "السعر",
+    "Archives": "الأرشيف",
+    "TotalPrice": "السعر الكلي",
+    "YourCartisEmpty": "عربة التسوق فارغة",
+    "AddSomethingToMakemeHappy:)": "أضف شيئًا ما يسعدني :)",
+    "Quantity": "الكمية",
+    "Action": "الاجراء",
+    "Total": "المجموع",
+    "ThankYou": "شكرًا لك",
+    "YourRequestHasBeenProcessedSuccessfully": "تم معالجة طلبك بنجاح",
+    "BackToHome": "العودة إلى المنزل"
+  },
+  "commonWords": {
+    "yes": "نعم",
+    "no": "لا",
+    "from": "من",
+    "to": "إلى",
+    "search": "تطبيق",
+    "copy": "نسخ",
+    "paymentBy": "يتم الدفع عن طريق",
+    "home": "الرئيسية",
+    "missions": "المهمات",
+    "create-mission": "أنشاء مهمة",
+    "choose": "أختر",
+    "myJobs": "وظائفي",
+    "job": "وظيفتي",
+    "myServices": "خدماتي",
+    "myService": "خدمتي",
+    "ordersNumber": "عدد الطلبات",
+    "requestDetails": "تفاصيل الطلب",
+    "TheDateTheRequestWasCreated": "تاريخ إنشاء المعاملة",
+    "lastUpdate": "اخر تحديث",
+    "myPromoCode": "الرموز الترويجية",
+    "piece": "قطعة",
+    "collections": "مول الجملة",
+    "create_backup-stock": "أنشاء طلب شحن",
+    "backup-stock": "طلب شحن",
+    "pressHere": "أضغط هنا",
+    "myStocks": "مخزوني",
+    "my_orders": "طلباتي",
+    "taxFile": "الملف الضريبي",
+    "paymentWith": "يتم الدفع عن طريق",
+    "add": "اضافة",
+    "remove": "حذف",
+    "edit": "تعديل"
+  },
+  "time": {
+    "day": " يوم ",
+    "days": " أيام ",
+    "hours": " ساعات ",
+    "hour": " ساعة ",
+    "minutes": " دقائق ",
+    "minute": " دقيقة ",
+    "seconds": " ثواني ",
+    "second": " ثانيه "
+  },
+  "currencies": {
+    "EGP": "ج.م",
+    "SR": "ر.س",
+    "AED": "AED",
+    "KWD": "د.ك",
+    "USD": "دولار امريكي"
+  },
+
+  "error": {
+    "sorry": "نحن اسفون على ازعاجكم بهذا الشكل",
+    "message": "يبدو انه حدث خطا .. او الصفحة التي تريديها غير موجوده"
+  },
+
+  "alertPage": {
+    "evaluation": "تقييم مدى رضاك",
+    "satisfied": "راضي",
+    "notSatisfied": "غير راضي",
+    "thanks": "شكرا لكم",
+    "link": "رابط الرمز الترويجي",
+    "login": " تسجيل الدخول ",
+    "promoCode": "البرومو كود هو",
+    "linkCreated": "تم انشاء رابط دفع فوري بنجاح"
+  },
+
+  "fawry": {
+    "title": "نتيجة عملية الدفع",
+    "close": "اغلق",
+    "reload": "إعادة تحميل",
+    "paid": "تم الدفع بنجاح",
+    "un_paid": "لقد حدث خطا اثناء عملية الدفع"
+  },
+
+  "account-selection": {
+    "title": "اشترك مع اوفر تايم , إنه مجاني",
+    "p": "اختر من بين نوعين من الحسابات",
+    "personal": "حساب شخصي",
+    "personal_p": "وصف الحساب الشخصي",
+    "business": "حساب تجاري",
+    "business_p": "وصف حساب الأعمال",
+    "button": "استمرار",
+    "side-bar-photo": {
+      "title": "عنوان الشريط الجانبي",
+      "p": "وصف الشريط الجانبي"
+    },
+    "page": {
+      "title": "أختيار الحساب",
+      "description": "أختيار نوع االحساب"
+    }
+  },
+  "info": {
+    "title": "أخبرنا عن عملك",
+    "p": "سنؤكد معلوماتك للمساعدة في الحفاظ على أمان حسابك",
+    "company_name": "اسم الشركة",
+    "company_name_place_holder": "أدخل اسم شركتك",
+    "license_number": "رقم السجل التجاري",
+    "license_number_place_holder": "أدخل رقم السجل التجاري",
+    "button": "استمرار",
+    "page": {
+      "title": "استمر في التسجيل",
+      "description": "متابعة أدخل معلومات حول عملك"
+    }
+  },
+
+  "business-step3": {
+    "title": "الخطوة الثالثه",
+    "p": "من فضلك استمر في ادخال البيانات",
+    "tax_number": "رقم الملف الضريبي",
+    "tax_number_place_holder": "ادخل رقم الملف الضريبي",
+    "question": "هل انت مسجل قيمة مضافة ؟",
+    "value_added": "رقم ملف القيمة المضافة",
+    "value_added_place_holder": "ادخل رقم ملف القيمة المضافة",
+    "button": "استمرار",
+    "page": {
+      "title": "استمر في التسجيل",
+      "description": "متابعة أدخل معلومات حول عملك"
+    }
+  },
+  "business-step4": {
+    "title": "الخطوه الرابعة",
+    "p": "من فضلك استمر في ادخال البيانات",
+    "employee_name": "أسم الموظف المسئول",
+    "employee_name_place_holder": "أدخل اسم الموظف المسئول",
+    "phone": "رقم الهاتف",
+    "phone_place_holder": "أدخل رقم الهاتف",
+    "code": "الرمز",
+    "code_place_holder": "أدخل الرمز الذي وصل الي هاتفك",
+    "sendCodeAgain": "لم يصلك الرمز ؟ ارسال الرمز مره اخري",
+    "button": "تأكيد رقم الهاتف",
+    "button2": "استمرار",
+    "page": {
+      "title": "استمر في التسجيل",
+      "description": "متابعة أدخل معلومات حول عملك"
+    }
+  },
+  "business-confirmation": {
+    "title": "تاكيد ببيانات حسابك",
+    "p": "من فضلك تاكد من بياناتك حسابك",
+    "company_name": "اسم الشركة",
+    "license_number": "رقم السجل التجاري",
+    "tax_number": "رقم الملف الضريبي",
+    "value_added": "رقم ملف القيمة المضافة",
+    "employee_name": "أسم الموظف المسئول",
+    "phone": "رقم الهاتف",
+    "button": "استمرار",
+    "page": {
+      "title": "تاكيد ببيانات حسابك",
+      "description": "من فضلك تاكد من بيانات حسابك"
+    }
+  },
+  "business-create-account": {
+    "title": "أنشاء حساب",
+    "p": "من فضلك املا الخانات الفارغة",
+    "country": "الدولة",
+    "country_place_holder": "أختر الدولة",
+    "email": "البريد الالكتروني",
+    "email_place_holder": "أدخل البريد الالكتروني",
+    "employee_name": "أسم الموظف المسئول",
+    "employee_name_place_holder": "أدخل اسم الموظف المسئول",
+    "employee_id": "رقم هوية الشخص المسؤل",
+    "employee_id_place_holder": "أدخل رقم هوية الشخص المسئول",
+    "business_type": "نوع / طبيعة العمل",
+    "business_type_place_holder": "ادخل نوع / طبيعة العمل",
+    "company_location": "عنوان الشركه",
+    "company_location_place_holder": "ادخل عنوان الشركه",
+    "password": "رقم المرور",
+    "password_place_holder": "ادخل رقم المرور",
+    "password_confirmation": "تاكيد كلمة المرور",
+    "password_confirmation_place_holder": "ادخل تاكيد كلمة المرور",
+    "logo": "الوجو",
+    "commercial_register": "صورة السجل التجاري",
+    "tax_card_copy": "صورة الملف الضريبي",
+    "button": "أنشاء",
+    "page": {
+      "title": "أنشاء حساب",
+      "description": "صفحة أنشاء حساب"
+    }
+  },
+
+  "personal-info": {
+    "title": "أخبرنا عن عملك",
+    "p": "سنؤكد معلوماتك للمساعدة في الحفاظ على أمان حسابك",
+    "question": "هل لديك ملف ضريبي ؟",
+    "tax_number": "رقم الملف الضريبي",
+    "tax_number_place_holder": "ادخل رقم الملف الضريبي",
+    "button": "استمرار",
+    "page": {
+      "title": "استمر في التسجيل",
+      "description": "متابعة أدخل معلومات حول عملك"
+    }
+  },
+  "personal-step3": {
+    "title": "الخطوة الثالثه",
+    "p": "من فضلك استمر في ادخال البيانات",
+    "employee_name": "أسم الموظف المسئول",
+    "employee_name_place_holder": "أدخل اسم الموظف المسئول",
+    "phone": "رقم الهاتف",
+    "phone_place_holder": "أدخل رقم الهاتف",
+    "code": "الرمز",
+    "code_place_holder": "أدخل الرمز الذي وصل الي هاتفك",
+    "sendCodeAgain": "لم يصلك الرمز ؟ ارسال الرمز مره اخري",
+    "button": "تأكيد رقم الهاتف",
+    "button2": "استمرار",
+    "page": {
+      "title": "استمر في التسجيل",
+      "description": "متابعة أدخل معلومات حول عملك"
+    }
+  },
+  "personal-confirmation": {
+    "title": "تاكيد ببيانات حسابك",
+    "p": "من فضلك تاكد من بياناتك حسابك",
+    "tax_number": "رقم الملف الضريبي",
+    "employee_name": "أسم الموظف المسئول",
+    "phone": "رقم الهاتف",
+    "button": "استمرار",
+    "page": {
+      "title": "تاكيد ببيانات حسابك",
+      "description": "من فضلك تاكد من بيانات حسابك"
+    }
+  },
+
+  "personal-create-account": {
+    "title": "أنشاء حساب",
+    "p": "من فضلك املا الخانات الفارغة",
+    "country": "الدولة",
+    "country_place_holder": "أختر الدولة",
+    "email": "البريد الالكتروني",
+    "email_place_holder": "أدخل البريد الالكتروني",
+    "employee_name": "أسم الموظف المسئول",
+    "employee_name_place_holder": "أدخل اسم الموظف المسئول",
+    "birthday": "تاريخ الميلاد",
+    "birthday_place_holder": "ادخل تاريخ الميلاد",
+    "employee_id": "رقم هوية الشخص المسؤل",
+    "employee_id_place_holder": "أدخل رقم هوية الشخص المسئول",
+    "business_type": "نوع / طبيعة العمل",
+    "business_type_place_holder": "ادخل نوع / طبيعة العمل",
+    "password": "رقم المرور",
+    "password_place_holder": "ادخل رقم المرور",
+    "password_confirmation": "تاكيد كلمة المرور",
+    "password_confirmation_place_holder": "ادخل تاكيد كلمة المرور",
+    "logo": "الوجو",
+    "id_card": "صورة بطاقة الهوية",
+    "tax_card_copy": "صورة الملف الضريبي",
+    "button": "أنشاء",
+    "page": {
+      "title": "أنشاء حساب",
+      "description": "صفحة أنشاء حساب"
+    }
+  },
+
+  "myMissionCard": {
+    "home": "الرئيسية",
+    "myMissions": "مهماتي",
+    "Required": "المطلوب",
+    "Category": "الفئة",
+    "location": "الموقع",
+    "commission": "العمولة",
+    "egp": "ج.م",
+    "description": "هنا تستطيع رؤية المهمات الخاص بك وتصفحها ورية الطلبات القادمة إليها",
+    "no_mission_created": "لم يتم انشاء مهمات من قبل"
+  },
+
+  "statusForMyMissionCard": {
+    "succeed": "ناجحة",
+    "cancelled": "تم الإلغاء",
+    "payment_requested": "مطلوب الدفع",
+    "expired": "منتهية",
+    "inPreview": "تحت المراجعة",
+    "refuesd": "مرفوضة",
+    "first10Dayes": "جاري الالغاء",
+    "active": "فعال"
+  },
+
+  "missionRequestsPage": {
+    "home": "الرئيسية",
+    "myMissions": "مهماتي",
+    "requests": " إدارة مهمتي",
+    "from": "من",
+    "to": "الي",
+    "editMyMission": "تعديل المهمة",
+    "renewMyMission": "تجديد المدة",
+    "cancelMyMission": "إلغاء المهمة",
+    "Required": "المطلوب",
+    "Category": "الفئة",
+    "location": "الموقع",
+    "requestNumber": "عدد المعاملات",
+    "commission": "العمولة",
+    "egp": "ج.م",
+    "number": "رقم",
+    "clientName": "اسم العميل",
+    "status": "الحالة",
+    "confirm": "هل أنت متأكد أنك تريد الغاء المهمة ؟",
+    "cancelMissionMsg": "لقد تم إلغاء المهمة بنجاح سيتم إسترجاع قيمة العمولات بعد 10 أيام",
+    "renewMissionMsg": "لقد تم تجديد المهمة بنجاح",
+    "codeNumber": "كود المعاملة",
+    "note": "ملاحظة :",
+    "mission_waring": " يمكنك إلغاء مهمتك في أي وقت واسترداد إجمالي قيمة العمولات في حالة عدم تنفيذ مهمتك بنجاح كما تنص سياسة المنصة ."
+  },
+
+  "statusForMissionRequestsPage": {
+    "succeed": "ناجحة",
+    "cancelled": "تم الإلغاء",
+    "pending": " جديد",
+    "possible": " محتمل"
+  },
+
+  "createMissionPage": {
+    "createTask": "انشاء مهمة",
+    "editTask": "تعديل المهمة",
+    "taskTitle": " عنوان المهمة ",
+    "taskTitle_p": "ادخل عنوان المهمة",
+    "LeaveUsFillCategoryRequired": "اترك علينا ملأ الفئة و المطلوب",
+    "Category": "الفئة",
+    "Required": "المطلوب",
+    "country": " الدولة ",
+    "city": "المدينة",
+    "TaskDetails": "تفاصيل المهمة",
+    "TaskDetails_p": "ادخل تفاصيل المهمة",
+    "RequiredDetails": "تفاصيل المطلوب",
+    "RequiredDetails_p": "ادخل تفاصيل المطلوب من المسوق ليستحق العمولة (مثال: مطلوب مشتري للسيارة)",
+    "taskValue": "قيمة المهمة",
+    "taskValue_p": "ادخل قيمة المستحقة للمسوق عند نجاحه في تنفيذ مهمتك ",
+    "taskValue_p2": "إجمالي المطلوب دفعه بعد إضافة 20% (عمولة أوفر تايم) هو",
+    "location": " موقع المهمة ",
+    "location_p": "ا دخل المدينة أو المنطقة ",
+    "EnterLocation": " قم بإدخال المكان المستهدف ",
+    "endDate": "موعد إنتهاء المهمة",
+    "endDate_p": "ادخل موعد انتهاء المهمة",
+    "MediaForMission": "الصور الخاصة بالمهمة",
+    "MediaForMission_2": "الفيديوهات الخاص بالمهمة",
+    "IsTaskRelatedToSite": " هل المهمة مرتبطة بمكان محدد ؟",
+    "IsTaskRelatedToDeadLine": " هل المهمة مرتبطة بتوقيت محدد ؟",
+    "Thetotalamountafteradding": " إجمالي المطلوب دفعه بعد إضافة 20% (عمولة أوفر تايم) هو ",
+    "rules": " لإنشاء مهمة يجب عليك الموافقة علي الالتزام",
+    "rules_2": "بشروط الإستخدام",
+    "SuccessMsg": " تم انشاء المهمة بنجاح ",
+    "pay": " دفع العمولة لبدأ العرض ",
+    "waitForPay": "يرجي العلم انه لن يتم عرض المهمة حتي الدفع",
+    "commission": "عمولة المسوق",
+    "overtimeCommission": "عمولة اوفر تايم",
+    "total": "الاجمالي",
+    "pay2": "دفع"
+  },
+  "editMissionPage": {
+    "edit": "تعديل المهمة",
+    "SuccessMsg": "تم تعديل المهمة بنجاح ",
+    "description": "تعديل المهمة الخاص بك",
+    "check": "سيتم وقف عرض المهمة وسيتم عرضها مرة أخري بعد مراجعة التعديلات"
+  },
+
+  "missionPage": {
+    "home": "الرئيسية",
+    "missions": "المهمات",
+    "missionDetails": "تفاصيل المهمة",
+    "missionEndDate": "تاريخ انتهاء المهمة",
+    "SuccessMsg": "تم إنشاء المعاملة بنجاح",
+    "category": "الفئة",
+    "required": "المطلوب",
+    "commission": "العمولة",
+    "requiredTaskDetails": "تفاصيل المهمة",
+    "missionDescription": "تفاصيل المطلوب",
+    "clientNomination": "ترشيح عميل",
+    "clientName": "اسم العميل",
+    "clientName_p": "ادخل اسم العميل",
+    "clientPhoneNumber": "رقم هاتف العميل",
+    "clientPhoneNumber_p": "ادخل رقم هاتف العميل",
+    "clientPhoneNumber_p2": "ادخل  رقم هاتف العميل للتواصل ",
+    "notes": "ملاحظات",
+    "notes_p": "اترك لنا ملاحظات ويمكنك أيضاً إضافة مرفقات لمساعدة صاحب المهمة بالمزيد من التفاصيل",
+    "submit": "إرسال",
+    "egp": "ج.م",
+    "count": "الفرص المتاحة",
+    "copy": "نسخ",
+    "location": "العنوان",
+    "description": "هنا يمكنك تصفح المهمات وانجاز الذي يناسبك منهم و اخذ عمولة قيمة منهم ",
+    "upgrade_massage": "يجب ترقية حساب المستوي المحترف حتي تتمكن من العمل علي نظام ربح المهمات"
+  },
+
+  "missionCard": {
+    "category": "الفئة",
+    "required": "المطلوب",
+    "location": "المدينة",
+    "commission": "العمولة",
+    "egp": "ج.م"
+  },
+
+  "requestPageForMission": {
+    "home": "الرئيسية",
+    "mission": "المهمة",
+    "requestDetails": "تفاصيل الطلب",
+    "Category": "الفئة",
+    "Required": "المطلوب",
+    "TheDateTheRequestWasCreated": "تاريخ إنشاء المعاملة",
+    "lastUpdate": " اخر تحديث ",
+    "attachments": " المرفقات ",
+    "clientDetails": "بيانات العميل",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "comment": "تعليق",
+    "done": "تم التنفيذ",
+    "cancellation": "إلغاء",
+    "confirm": "هل أنت متأكد بأنك تريد قبول هذا الطلب ؟",
+    "doneRequestMsg": "تم تنفيذ المهمة بنجاح",
+    "confirm2": "هل أنت متأكد أنك تريد رفض هذا الطلب ؟",
+    "confirm3": "هل أنت متأكد أنك تريد رفض هذا الطلب ؟",
+    "cancelledRequestMsg": "تم رفض هذا الطلب",
+    "possibleRequestMsg": "هذا الطلب محتمل حاليا",
+    "possible": "محتمل",
+    "sent": "تم ارسال البيانات"
+  },
+
+  "jopCard": {
+    "salary": "الراتب",
+    "count": " الفرص المتاحة",
+    "location": "الموقع",
+    "commission": "العمولة",
+    "opportunity": "فرصه",
+    "opportunities": "فرص"
+  },
+
+  "jobPage": {
+    "pageTitle": "أدارة وظيفتي",
+    "pageDescription": "هنا يمكنك أدارة وظيفتك و أداراة طلبات وظيفتك",
+    "edit": "تعديل الوظيفة",
+    "ordersNumber": "عدد الطلبات",
+    "commission": "عمولة المسوق",
+    "pay": " دفع العمولة لبدأ العرض ",
+    "overtimeCommission": "عمولة اوفر تايم",
+    "total": "الاجمالي",
+    "pay2": "دفع",
+    "waitForPay": "يرجي العلم انه لن يتم عرض الوظيفة حتي الدفع",
+    "job_waring": " يمكنك إلغاء وظيفتك في أي وقت واسترداد إجمالي قيمة العمولات في حالة عدم تنفيذ وظيفتك بنجاح كما تنص سياسة المنصة .",
+    "upgrade_massage": "يجب ترقية حساب المستوي المحترف حتي تتمكن من العمل علي نظام ربح الوظائف",
+    "no_jobs_created": "لم تقم بإنشاء وظيفة بعد"
+  },
+
+  "jobOrders": {
+    "number": "رقم",
+    "codeNumber": "كود المعاملة",
+    "clientName": "اسم العميل",
+    "status": "الحالة"
+  },
+
+  "statusForJobOrders": {
+    "new": "جديده",
+    "nominated": "تم الترشيح",
+    "success": "ناجحه",
+    "cancelled": "ملغية"
+  },
+
+  "cancelJobOrderModal": {
+    "cancel": "الغاء",
+    "cancelOrder": "الغاء الطلب",
+    "cancel_reason": "سبب الالغاء",
+    "cancel_reason_place_holder": "سبب الالغاء",
+    "warn": "في حالة التلاعب سوف يتم المطالبة بضعف العمولة",
+    "close": "اغلق",
+    "confirm": "تاكيد الالغاء"
+  },
+
+  "createJobPage": {
+    "pageTitle": "أنشاء وظيفة",
+    "pageDescription": "هنا يمكنك أنشاء طلب الوظيفة الخاص بك",
+    "title": "عنوان الوظيفة",
+    "title_placeholder": " ادخل عنوان الوظيفة",
+    "country": " الدولة ",
+    "city": "المدينة",
+    "allowTime": "فترة التاكيد (تستحق العمولة عند اتمام العامل هذه المده)",
+    "14Days": "14 يوم",
+    "7Days": "7 أيام",
+    "description": "وصف الوظيفة",
+    "description_placeholder": "ادخل وصف الوظيفة",
+    "job_requirements": "متطلبات الوظيفة",
+    "job_requirements_placeholder": "ادخل متطلبات الوظيفة",
+    "job_address": "عنوان التقديم",
+    "job_address_placeholder": "ادخل عنوان التقديم",
+    "commission": "العمولة",
+    "commission_placeholder": "ادخل العمولة",
+    "commission_p": "يتم تقسيم العمولة بنسبة 50% للمسوق و50% لاوفر تايم",
+    "salary": "الراتب",
+    "salary_placeholder": "ادخل الراتب",
+    "apply_value": "قيمة التقديم",
+    "apply_value_placeholder": "ادخل قيمة التقديم",
+    "jobs_number": "عدد الفرص المتاحه",
+    "jobs_number_placeholder": "ادخل عدد الفرص المتاحه",
+    "gallery": "معرض الصور",
+    "rules": " لإنشاء الوظيفة يجب عليك الموافقة علي الالتزام",
+    "rules_2": "بشروط الإستخدام",
+    "submit": "أنشاء وظيفة",
+    "SuccessMsg": "تم أنشاء الوظيفة بنجاح يرجي العلم انه لن يتم عرض الوظيفة حتي الدفع"
+  },
+
+  "editJobPage": {
+    "pageTitle": "تعديل وظيفة",
+    "pageDescription": "هنا يمكنك تعديل طلب الوظيفة الخاص بك",
+    "submit": "تعديل الوظيفة",
+    "check": "سيتم وقف عرض الوظيفة وسيتم عرضها مرة أخري بعد مراجعة التعديلات",
+    "SuccessMsg": "تم تعديل الوظيفة بنجاح "
+  },
+
+  "serviceCard": {
+    "availablePlaces": "المدن",
+    "title": "خدمات",
+    "category": "النوع",
+    "commission": "عمولة المسوق"
+  },
+
+  "servicePage": {
+    "pageTitle": "أدارة خدمتي",
+    "edit": "تعديل الخدمة",
+    "availablePlaces": "الاماكن المتاحة",
+    "commission": "العمولة",
+    "seller_commission": "50% عمولة مسوق",
+    "overtime_codeNumber": "50% عمولة أوفر تايم"
+  },
+
+  "orders": {
+    "number": "رقم",
+    "codeNumber": "كود المعاملة",
+    "clientName": "اسم العميل",
+    "status": "الحالة"
+  },
+  "statusForServiceOrders": {
+    "new": "جديده",
+    "pending": "محتملة",
+    "success": "ناجحة",
+    "cancelled": "ملغية",
+    "scheduled": "مؤجلة"
+  },
+
+  "serviceOrder": {
+    "unique_id": "كود المعاملة",
+    "country": "الدولة",
+    "cities": "المدن",
+    "customer_order": "طلب العميل",
+    "notes": "ملاحظات",
+    "status": "الحالة"
+  },
+
+  "clientDetails": {
+    "details": "بيانات العميل",
+    "name": "الاسم",
+    "phone": "رقم الهاتف"
+  },
+
+  "EditService": {
+    "pageTitle": "تعديل خدمة",
+    "pageDescription": "هنا يمكنك تعديل الخدمة الخاص بك",
+    "title": "العنوان",
+    "title_placeholder": " ادخل عنوان الخدمة",
+    "category": "الفئة",
+    "country": "الدولة",
+    "cities": "المدن",
+    "description": "وصف الخدمة",
+    "description_placeholder": "ادخل وصف الخدمة",
+    "offers": "العروض",
+    "offers_placeholder": "ادخل عروض الخدمة",
+    "gallery": "معرض الصور",
+    "video": "فيديو",
+    "submit": "طلب تعديل",
+    "SuccessMsg": "تم أرسال طلب تعديل الخدمة بنجاح .. برجاء الانتظار حتي القبول"
+  },
+
+  "promoCodeCard": {
+    "discountValue": "قيمة الخصم",
+    "availablePlaces": "الاماكن المتاحة",
+    "category": "النوع",
+    "commission": "عمولة المسوق"
+  },
+
+  "promoCodePage": {
+    "pageTitle": "أدارة الرمز الترويجي",
+    "edit": "تعديل الرمز الترويجي",
+    "availablePlaces": "الاماكن المتاحة",
+    "commission": "العمولة",
+    "seller_commission": "50% عمولة مسوق",
+    "overtime_codeNumber": "50% عمولة أوفر تايم"
+  },
+
+  "statusForPromoCodeOrders": {
+    "succsed": "ناجحة",
+    "activated": "فعالة",
+    "expired": "منتهية"
+  },
+
+  "promoCodeOrder": {
+    "unique_id": "كود المعاملة",
+    "country": "الدولة",
+    "cities": "المدن",
+    "customer_order": "طلب العميل",
+    "notes": "ملاحظات",
+    "status": "الحالة",
+    "remainTime": "باقي من الزمن"
+  },
+
+  "EditPromoCode": {
+    "pageTitle": "تعديل الرمز ترويجي",
+    "pageDescription": "هنا يمكنك تعديل الرمز ترويجي الخاص بك",
+    "title": "العنوان",
+    "title_placeholder": " ادخل عنوان الرمز ترويجي",
+    "category": "الفئة",
+    "country": "الدولة",
+    "cities": "المدن",
+    "description": "وصف الرمز ترويجي",
+    "description_placeholder": "ادخل وصف الرمز ترويجي",
+    "discount_code": "قيمة الخصم",
+    "discount_code_placeholder": "ادخل قيمة الخصم",
+    "ad_formats": "الصيغ الاعلانية",
+    "ad_formats_placeholder": "ادخل الصيغ الاعلانية",
+    "gallery": "معرض الصور",
+    "video": "فيديو",
+    "submit": "طلب تعديل",
+    "SuccessMsg": "تم أرسال طلب تعديل الرمز ترويجي بنجاح .. برجاء الانتظار حتي القبول"
+  },
+
+  "productCollectionCard": {
+    "country": "الدولة",
+    "quantity": "الكمية",
+    "price": "السعر"
+  },
+
+  "productCollectionPage": {
+    "details": "تفاصيل الجملة",
+    "country": "الدولة",
+    "quantity": "الكمية",
+    "price": "السعر",
+    "taxFile": "الملف الضريبي",
+    "copy": "نسخ",
+    "shipping_prices": "أسعار الشحن",
+    "description": "الوصف",
+    "type&stock": "النوع والكمية",
+    "order": "طلب",
+    "modal": {
+      "shipping_to": "الشحن إلى",
+      "choosePlace": "اختر مكان الشحن",
+      "overtime_store": "مخزني في اوفر تايم",
+      "vendor_store": "مكان أخر",
+      "city": "المدينة",
+      "chooseCity": "اختر المدينة",
+      "stock_type": "مكان التخزين",
+      "choose_stock_type": "اختر مكان التخزين",
+      "address": "العنوان",
+      "address_placeholder": "ادخل العنوان",
+      "note": "ملاحظة :",
+      "note_placeholder": "اكتب ملاحظة",
+      "total": "المجموع",
+      "available_to_sell": "عرض علي المنصه",
+      "submit": "طلب الشراء"
+    },
+    "price_breakdown": "تقسيمة الاسعار",
+    "storage_commission": "عمولة التخزين",
+    "sellingPrice": "سعر البيع",
+    "user_commission": "عمولة التسويق",
+    "MerchantOwed": "مستحق التاجر",
+
+    "SuccessMsg": "يرجي الدفع حتي يتم أرسال الطلب"
+  },
+
+  "backup-stock-page": {
+    "title": "عنوان الطلب",
+    "title_placeholder": "ادخل عنوان الطلب",
+    "description": "وصف الطلب",
+    "description_placeholder": "ادخل وصف الطلب",
+    "country": "الدولة",
+    "city": "المدينة",
+    "city_placeholder": "اختر المدينة",
+    "address": "عنوان الاستلام",
+    "address_placeholder": "ادخل عنوان الاستلام",
+    "responsible_name": "اسم المسؤول",
+    "responsible_name_placeholder": "ادخل اسم المسؤول",
+    "responsible_phone": "رقم هاتف المسؤول",
+    "responsible_phone_placeholder": "ادخل رقم هاتف المسؤول",
+    "SuccessMsg": "تم أنشاء الطلب بنجاح .. اضف منتاجتك الان",
+    "submit": "التالي"
+  },
+
+  "backup-stock-page_step_2": {
+    "pageTitle": "اكمل طلب الشحن",
+    "country": "الدولة",
+    "product": "المنتج",
+    "ifUnavailable": "اذا لم يكن متوفر المنتج الذي تريده",
+    "color": "اللون",
+    "size": "المقاس",
+    "type": "النوع",
+    "quantity": "الكمية",
+    "add": "اضافة",
+    "stockSuccessMsg": "تمت أضافة المخزون بنجاح",
+    "actions": "العمليات",
+    "deleteRequest": "هل انت متاكد انك تريد حذف هذا العنصر ؟",
+    "submit": "ارسال الطلب",
+    "SuccessMsg": "تم ارسال طلب الشحن بنجاح"
+  },
+
+  "createProductModal": {
+    "title": "اسم المنتج",
+    "title_placeholder": "ادخل اسم المنتج",
+    "description": "وصف المنتج",
+    "description_placeholder": "ادخل وصف المنتج",
+    "price": "السعر",
+    "price_placeholder": "ادخل السعر",
+    "storage_commission": "عمولة التخزين",
+    "color_exists": "هل يوجد الوان لهذا المنتج ؟",
+    "color": "اللون",
+    "color_placeholder": "ادخل اللون",
+    "size_exists": "هل يوجد مقاسات لهذا المنتج ؟",
+    "size": "المقاس",
+    "size_placeholder": "ادخل المقاس",
+    "gallery": "معرض الصور",
+    "video": "فيديو",
+    "add": "اضافة",
+    "submit": "أنشاء المنتج"
+  },
+
+  "stockCard": {
+    "country": "الدولة",
+    "myStocks": "مخزوني"
+  },
+
+  "orderProduct": {
+    "button_name": "طلب جديد",
+    "clientName": "اسم العميل",
+    "clientName_placeholder": "ادخل اسم العميل",
+    "clientPhone": "رقم هاتف العميل",
+    "clientPhone_placeholder": "ادخل رقم هاتف العميل",
+    "clientAddress": "عنوان العميل",
+    "clientAddress_placeholder": "ادخل عنوان العميل",
+    "city": "المدينة",
+    "note": "ملاحظة :",
+    "note_placeholder": "اكتب ملاحظة",
+    "size": "المقاس",
+    "color": "اللون",
+    "type": "النوع",
+    "total": "المجموع",
+    "p": "هل تريد البيع بسعر أخر ؟",
+    "price": "الاجمالي",
+    "price_placeholder": "ادخل الاجمالي",
+    "shipping_prices": "مصاريف الشحن",
+    "storage_commission": "عمولة التخزين",
+    "merchantOwed": "مستحق التاجر",
+    "p2": "هذا هو السعر النهائي الذي سوف نحصله من العميل",
+    "order": "طلب",
+    "SuccessMsg": "تم ارسال الطلب بنجاح"
+  },
+
+  "ControlStock": {
+    "price": "سعر البيع",
+    "price_placeholder": "ادخل السعر",
+    "storage_commission": "عمولة التخزين",
+    "commission": "العمولة",
+    "commission_placeholder": "ادخل العمولة",
+    "vendor_money": "مستحق التاجر",
+    "sellingPrice": "سعر البيع",
+    "submit": "طلب عرض",
+    "SuccessMsg": "تم ارسال الطلب بنجاح"
+  },
+
+  "updateProduct": {
+    "button_name": " تعديل المحتوي الاعلاني",
+    "advertising_content": "المحتوي الاعلاني",
+    "advertising_content_placeholder": "ادخل المحتوي الاعلاني",
+    "add": "اضافة",
+    "remove": "حذف",
+    "submit": "تعديل",
+    "SuccessMsg": "تم أرسال طلب تعديل المحتوي الاعلاني بنجاح"
+  },
+  "stock_control_page": {
+    "page_title": "أدارة مخزوني",
+    "increase_stock": "تزويد مخزون",
+    "country": "الدولة",
+    "p": "التسويق من خلال منصة أوفر تايم",
+    "stock": "المخزون :",
+    "storage_commission": "عمولة التخزين",
+    "marketing_commission": "عمولة تسويق",
+    "selling_price": "سعر البيع",
+    "merchantOwed": "مستحق التاجر",
+    "before": "قبلك",
+    "your_turn": "دورك",
+    "after": "بعدك",
+    "size-color": "المقاس - اللون",
+    "type": "النوع",
+    "last_addition": "أخر اضافة",
+    "count": "العدد",
+    "warn": "هل انت متاكد انك تريد اخفاء المخزون ؟ سوف تفقد دورك"
+  },
+  "StockCard": {
+    "country": "الدولة",
+    "stock": "المخزون",
+    "p": "التسويق من خلال منصة أوفر تايم",
+    "storage_commission": "عمولة التخزين",
+    "marketing_commission": "عمولة تسويق",
+    "selling_price": "سعر البيع",
+    "merchantOwed": "مستحق التاجر"
+  },
+
+  "vendor_orders": {
+    "order_number": "رقم الطلب",
+    "count": "عدد القطع",
+    "status": "الحالة",
+    "type": "النوع",
+    "updated_at": "تاريخ أخر تحديث"
+  },
+
+  "vendor_orders_types": {
+    "stock_collection": "طلب شحن",
+    "product_collection": "مول الجملة"
+  },
+
+  "vendor_orders_status": {
+    "new": "جديد",
+    "shipping": "جاري الشحن",
+    "successful": "ناجحة",
+    "cancelled": "تم الإلغاء"
+  },
+
+  "transactions": {
+    "details": "تفاصيل المعاملة",
+    "info": "بيانات المعاملة",
+    "order_number": "رقم المعاملة",
+    "product_collection_name": "اسم منتج الجملة",
+    "product_count": "عدد المنتجات",
+    "created_at": "تاريخ أنشاء المعاملة",
+    "updated_at": "تاريخ أخر تحديث",
+    "status": "الحالة",
+    "order_derails": "بيانات الطلب",
+    "shipping_to": "الشحن إلى",
+    "address": "العنوان",
+    "shipping_price": "سعر الشحن",
+    "count": "العدد",
+    "stock_count": "عدد القطع",
+    "title": "العنوان",
+    "stockDetails": "تفاصيل القطع"
+  },
+  "shipping_to": {
+    "vendor_store": "مكان خاص بي",
+    "overtime_store": "مخزني في اوفر تايم"
+  },
+
+  "stock-nav": {
+    "my_stock": "مخزني",
+    "product_collection": "مول الجملة",
+    "orders": "طلباتي",
+    "stock_control": "أدارة مخزوني",
+    "search": "تطبيق"
+  },
+
+  "addStockModal": {
+    "supply": "تزويد مخزني بالمنتجات",
+    "supply_collection": "تزويد من الجملة",
+    "from_home": "شحن من المنزل"
+  },
+
+  "fullNavBar": {
+    "my_business": "أعمالي",
+    "transactions": "المعاملات",
+    "product_collection": "مول الجملة",
+    "my_stock": "مخزني",
+    "missions": "المهمات",
+    "technical_support": "الدعم الفني",
+    "training_center": "مركز التدريب",
+    "account": "الحساب الشخصي",
+    "balance": "الرصيد",
+    "settings": "الاعدادات",
+    "logout": "تسجيل الخروج"
+  },
+
+  "sideNavBar": {
+    "nomination": "ترشيح مسوق",
+    "my_jobs": "وظائفي",
+    "my_services": "خدماتي",
+    "my_promo_code": "عروضي الترويجية",
+    "my_mission": "مهماتي",
+    "my_products": "منتجاتي"
+  },
+
+  "loginPage": {
+    "login": "تسجيل الدخول",
+    "new_user": "مستخدم جديد ؟",
+    "codeAndPhone": "الكود / رقم الهاتف",
+    "codeAndPhonePlaceholder": "أدخل الكود / رقم الهاتف",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "forgetPassword": "هل نسيت كلمة المرور ؟ ",
+    "create_account": "إنشاء حساب"
+  },
+
+  "training-center": {
+    "title": "مركز التدريب",
+    "description": "تعلم كيفية استخدام منصة أوفر تايم وكيفية تحقيق الأرباح من خلالها"
+  },
+
+  "balancePage": {
+    "home": "الرئيسية",
+    "balance": "الرصيد",
+    "currentBalance": " رصيدك الحالي ",
+    "previousTransfers": " التحويلات السابقة ",
+    "title": "صفحة الرصيد",
+    "description": "هنا يمكنك سحب الرصيد الخاص بك او رؤية الرصيد الذي تحول لك",
+    "transferDate": "تاريخ الطلب",
+    "status": "الحالة",
+    "amount": " المبلغ",
+    "type": "نوع السحب",
+    "comment": "تعليق",
+    "attachments": " المرفقات ",
+    "cancelled": "لم يتم التحويل",
+    "succeed": "تم التحويل",
+    "pending": "جااري التحويل",
+    "SuccesMag": "تم طلب سحب الرصيد, سيتم التحويل في خلال 48 ساعة",
+    "errMag": "يوجد مشكلة انتظر بعض الوقت وحاول مرة أخرى أو تحدث مع خدمة العملاء",
+    "TransactionCode": " عدد المعاملات",
+    "profitSystem": " نظام الربح ",
+    "profitvalue": " قيمة الربح ",
+    "totalbalance": " إجمالى الرصيد ",
+    "Minimumwithdrawal": " الحد الأدنى للسحب ",
+    "withdrawal": "سحب الرصيد",
+    "AddNewWays": " إضافة طرق جديدة ",
+    "team-earnings": "ارباح الفريق",
+    "weekly-earnings": "ارباحك الاسبوعيه من الفريق ",
+    "jobs": "الوظائف",
+    "services": "الخدمات",
+    "products": "المنتجات",
+    "promocode": "رموز ترويجيه",
+    "Real-estate": "العقارات",
+    "missions": "المهمات",
+    "weekly-rewards": "المكافات الاسبوعيه",
+    "why": "لماذ يوجد حد ادني للسحب",
+    "close": "اغلق",
+    "withdrawWithCond": "السحب بدون حد ادني",
+    "small": "لاتنسي اختيار وسيلة سحب ثم اضغط عل سحب بدون حد ادني",
+    "warn": "سوف يتم خصم 10% من رصيدك هل انت متاكد انك تريد السحب ؟",
+    "quickWithDraw": {
+      "text1": "اجمالي المبلغ : 1500 جنيه",
+      "text2": "عدد التحويلات : معامله واحده",
+      "text3": "عدد التحويلات : 5 معاملات",
+      "text4": "الكتير من المعاملات = الكثير من التكلفة",
+      "text5": " لضمان إستمرار خدماتنا بجودة عالية يرجي العلم أن الحد الأدن للسحب بدون رسوم هو 1500 جنية يمكنك إستخدام السحب السريع (بدون حد أدني) مع العلم سيتم خصم رسوم 10% من المبلغ رسوم تحويل"
+    },
+    "withdrawalMethod": "اختر وسيلة السحب",
+    "order_number": "رقم الطلب",
+    "credit": "ايداع"
+  },
+
+  "ballance-table": {
+    "amount": " المبلغ",
+    "ballance": "الرصيد",
+    "comment": "تعليق",
+    "date": " التاريخ",
+    "created_at": "تاريخ أنشاء المعاملة",
+    "actions": "العمليات"
+  },
+
+  "payment_request": {
+    "debit": "سحب",
+    "credit": "ايداع"
+  },
+
+  "prev-balance-status": {
+    "new": "جديد",
+    "pending": "جاري التحويل",
+    "success": "ناجحة",
+    "cancelled": "لم يتم التحويل"
+  },
+
+  "settingPage": {
+    "setting": "الإعدادات",
+    "profile": "الصورة الشخصية",
+    "idCard": "إثبات الهوية",
+    "edit": "تعديل البيانات",
+    "updatePhoto": "تعديل الصورة",
+    "password": " كلمة المرور الجديدة",
+    "SuccessMag": "تم تعديل الصورة الشخصية بنجاح",
+    "description": "تعديل و رؤية الإعدادات الخاصة بك وسحب الرصيد الخاص بك ايضا لعملك مع منصة اوفر تايم",
+    "confirmAccount": "تأكيد الحساب",
+    "confirmAccount_p": "تأكيد هوية الحساب",
+    "confirmDone": "تم تاكيد هوية الحساب بنجاح"
+  },
+
+  "addToWalletPage": {
+    "AddElectronicWallet": " إضافة محفظة إلكترونية ",
+    "wallet_name": " اسم المحفظة ",
+    "vodafone_cash": "فودافون كاش",
+    "etisalat_cash": "اتصالات كاش",
+    "weCash": "وي كاش",
+    "orangeCash": "اورانج كاش",
+    "bankTransfer": "تحويل بنكي",
+    "mizaCard": "كارت ميزا",
+    "account_number": " رقم الحساب ",
+    "account_number_p": "ادخل رقم الحساب",
+    "addWallet": "إضافة",
+    "description": "تستطيع من هنا اضافة محفظة الكترونية جديده لتقوم بسحب الرصيد الخاص بك",
+    "successMsg": "تمت إضافة المحفظة بنجاح"
+  },
+
+  "addBankAccount": {
+    "AddBank": "إضافة حساب بنكي",
+    "AddBankAccount": " إضافة حساب بنكي ",
+    "bankName": " إسم البنك ",
+    "bankName_p": "ادخل اسم بنك",
+    "AccountName": " اسم صاحب الحساب ",
+    "AccountName_p": " ادخل اسم صاحب الحساب ",
+    "accountNumber": " رقم الحساب ",
+    "accountNumber_p": " ادخل رقم الحساب",
+    "swift_code_p": "ادخل جميع الحروف والارقام الخاصة بـ السويفت كود",
+    "branch_name": "اسم الفرع",
+    "branch_name_p": "ادخل اسم الفرع",
+    "add_account": "اضافة",
+    "description": "تستطيع من هنا اضافة حساب بنكي جديده لتقوم بسحب الرصيد الخاص بك",
+    "successMsg": "تمت إضافة الحساب بنجاح"
+  },
+
+  "addMizaCard": {
+    "AddBank": "اضافة كارت ميزا",
+    "account_number": " رقم الكارت ",
+    "account_number_p": " ادخل رقم الكارت",
+    "description": "تستطيع من هنا اضافة كارت ميزا جديد لتقوم بسحب الرصيد الخاص بك",
+    "successMsg": "تمت إضافة الكارت بنجاح",
+    "warn": "من الافضل ان يكون هذا الكارت ملكك",
+    "warn2": "من الافضل ان  تتاكد من رقم الكارت"
+  },
+
+  "wallets_page": {
+    "profitTransferData": "بيانات تحويل الأرباح",
+    "recordedRoutes": "المسارات المسجلة",
+    "addNewWays": "أضافة طرق جديدة",
+    "addElectronicWallet": "أضافة محفظة الكترونية",
+    "addBankAccount": "أضافة حساب بنكي",
+    "addMizaCard": "أضافة كارت ميزا"
+  },
+
+  "withdrawal-deposit-actions": {
+    "title": "عمليات السحب والايداع",
+    "deposit": "عملية الايداع",
+    "withdrawal": "عملية السحب",
+    "withdrawal_method": "وسيلة السحب",
+    "code": "رمز العملية",
+    "account_number": " رقم الحساب ",
+    "amount": " المبلغ",
+    "status": "الحالة",
+    "created_at": "تاريخ أنشاء العملية",
+    "updated_at": "تاريخ أخر تحديث",
+    "attachment": "المرفقات & التعليق",
+    "comment": "تعليق"
+  },
+
+  "supportTicketPage": {
+    "supportTicket": "تذكرة دعم جديدة",
+    "pageTitle": "تذكرة دعم",
+    "title": "عنوان المشكلة",
+    "type": "نوع المشكلة",
+    "description": "أخبرنا ما المشكلة التي تواجهك",
+    "addImages": "اضافة مرفقات",
+    "send": " إرسال",
+    "successMsg": "تم فتح تذكرة دعم فني جديدة",
+    "communication": "تذكرة دعم",
+    "status": "الحالة",
+    "open": "مفتوحة",
+    "progress": "جاري العمل",
+    "solved": "حلت بنجاح",
+    "closed": "مغلقة",
+    "showTicket": "رؤية طلب الدعم المقدم",
+    "technical-support": "الدعم الفني",
+    "user_team_earnings": "ارباح الفريق",
+    "team_profit_title": "نسبة أرباحك الأسبوعية",
+    "bonus_title": "المكافآت الأسبوعية",
+    "user_invite": "دعوة مستخدم",
+    "real_estate": "عقارات",
+    "promocode": "رموز ترويجية",
+    "mission": "المهمات",
+    "service": "خدمات",
+    "product": "منتجات",
+    "job": "وظائف",
+    "another": "اخري"
+  },
+  "chat": {
+    "p": "برجاء تقيم تجربتك مع الدعم الفني",
+    "happy": "راضي",
+    "normal": "عادي",
+    "sad": "غير راضي",
+    "rate": "تقيم",
+    "say": "اكتب لنا ما تريد ..",
+    "submit": "إرسال",
+    "successMsg": "تم إرسال التقيم بنجاح"
+  },
+
+  "support_request_table": {
+    "transaction_number": "رقم المعاملة",
+    "status": "الحالة",
+    "created_at": "تاريخ التذكرة",
+    "updated_at": "تاريخ اخر تحديث"
+  },
+
+  "badge": {
+    "warning": "تحذير",
+    "noticeable": "ملحوظة",
+    "target_customers": "العملاء المستهدفين"
+  },
+
+  "transactionPage": {
+    "transactions": "المعاملات",
+    "transactionCode": "كود المعاملة",
+    "transactionData": "تفاصيل المعاملة",
+    "profitSystem": " نظام الربح ",
+    "serviceName": "اسم الخدمة",
+    "count": "عدد القطع",
+    "normal": "منتجات",
+    "overtime_order": "منتجات",
+    "product": "منتجات",
+    "job": "وظائف",
+    "promocode": "رموز ترويجية",
+    "service": "خدمات",
+    "real_estate": "عقارات",
+    "mission": "المهمات",
+    "team_profit": "أرباح الفريق",
+    "invite_bonuses": "ارباحك الأسبوعية من الفريق",
+    "bouns": "ارباحك الأسبوعية من الفريق",
+    "user_invitations": "ارباح الفريق",
+    "invite_users": "ارباح الفريق",
+    "team_profit_title": "نسبة ارباحك الاسبوعية",
+    "invite_bonuses_title": "المكافأت الاسبوعية",
+    "bouns_title": "المكافأت الاسبوعية",
+    "user_invitations_title": "دعوة مستخدم",
+    "invite_users_title": "دعوة مستخدم",
+    "status": "الحالة",
+    "success": "ناجحة",
+    "succsed": "ناجحة",
+    "succeed": "ناجحة",
+    "transfer_done": "تم التحويل",
+    "nominated": "تم الترشيح",
+    "delivered": "تم الشحن",
+    "pending": "جاري التواصل مع العميل",
+    "new": "التأكيد مع العميل",
+    "cancelled": "تم الالغاء",
+    "scheduled": "مؤجلة",
+    "schedualed": "مؤجلة",
+    "payment_required": "مطلوب الدفع",
+    "expired": "منتهي",
+    "activated": "فعال ",
+    "shipping": "جاري الشحن",
+    "note": "تذكر:",
+    "p": "لا تضيع حقك في ضعف العمولة, يمكنك مراجعة نتائج المعاملات مع عملائك وفي حالة وجود خطأ إطلب ضعف العمولة ",
+    "custmorRefused": "العميل رفض العرض",
+    "customrData": "بيانات العميل",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "comment": "تعليق",
+    "weekStart": "بداية الأسبوع",
+    "weekEnd": "نهاية الأسبوع",
+    "price": "قيمة الربح",
+    "review": "سيتم إعتبار أن هذه المعاملة مراجعة من قبلكم ؟",
+    "review2": "تم المراجعة",
+    "remainTime": "فترة التأكيد",
+    "paymentUrl": "رابط الدفع",
+    "waitingForPayment": "الفتره المتاحه للدفع",
+    "payment_history": "الرصيد",
+    "payment_history_title": "سحب أرباح",
+    "withdrawal_method": "طريقة السحب",
+    "account_number": "رقم الحساب",
+    "comment_attachment": "التعليق/المرفقات",
+    "support": "فتح تذكرة دعم",
+    "reason": "سبب الالغاء",
+    "ReviewWithClient": "مراجعة مع العميل",
+    "revisionDone": "تمت المراجعة",
+    "created_at": "تاريخ أنشاء المعاملة",
+    "updated_at": "تاريخ أخر تحديث"
+  },
+
+  "teamProfit": {
+    "home": "الرئيسية",
+    "teamProfit": "أرباح الفريق",
+    "p": "إربح العمولات من التسجيل لكل صديق ويتم الإضافة لقائمة الفريق وربح 10% زيادة على ارباحك  في  4 انظمه مختلفه",
+    "personalCodenum": "كود حسابك",
+    "copy": "نسخ",
+    "addFormat": "المحتوى الإعلاني",
+    "timeToEnd": "باقي على نهاية الأسبوع",
+    "timeToEnd_p": "يتم إحتساب نسبة أرباح الفريق والمكافئات ونقلها إلى الرصيد في نهاية الأسبوع",
+    "teamMember": " قائمة الفريق",
+    "number": "⇅ م",
+    "code": "الكود",
+    "present": "نسبة الربح",
+    "description": "من هنا تستطيع معرفة ارباحك من خلال الفريق الخاص بك",
+    "partner": "شريك",
+    "p_2": "أرباحك الأسبوعية من الفريق",
+    "weeklyRewards": "المكافآت الأسبوعية",
+    "commission": "قيمة العمولة",
+    "beginner": "المبتدئ",
+    "professional": "المحترف",
+    "conditions": " مستوي المكافئة ",
+    "Nominations": "عدد الترشيحات",
+    "Bonus": "قيمة البونص",
+    "orMore": "أو أكثر",
+    "country": "الدولة",
+    "teamEarnings": "أرباحك من فريقك",
+    "nominated": "انت رشحت",
+    "thisMonth": "شريك جديد هذا الاسبوع",
+    "link": "رابط التسجيل",
+    "noOne": "عفواً، لم تقم بترشيح أصدقاء من قبل"
+  },
+
+  "setting-side-bar": {
+    "personal-data": "البيانات الشخصية",
+    "account": "الحساب الشخصي",
+    "with_drawl_methods": "طرق السحب"
+  },
+
+  "profile": {
+    "name": "الاسم",
+    "email": "البريد الالكتروني",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "change_password": "تغيير كلمة المرور",
+    "old_password": "كلمة المرور القديمة",
+    "country": "الدولة",
+    "currency": "العملة",
+    "logo": "الوجو",
+    "update_photo": "تحديث الصورة",
+    "password_confirmation": "تأكيد كلمة المرور",
+    "submit": "إرسال"
+  },
+
+  "levels": {
+    "level": "المستوي",
+    "personal": "حساب شخصي",
+    "company": "حساب شركة",
+    "partner": "حساب شريك"
+  },
+
+  "levelPage": {
+    "personal": "حساب شخصي",
+    "company": "حساب شركة",
+    "partner": "حساب شريك",
+    "promotion_terms": "شروط الترقية",
+    "starterLevel": "❌لا يسمح له بالعمل خارج بلد الحساب, حتي الترقية للمستوي النشط.<br> ❌لا يسمح له بالعمل علي نظام ربح (المشاريع العقارية). <br> ✅الحصول علي كورس تسويق مجاني معتمد عند الترقية للمستوي النشط.",
+    "partnerLevel": "✅يستطيع العمل علي جميع الدول المتاحة علي المنصة. <br> ✅يستطيع العمل علي نظام ربح (المشاريع العقارية).<br>✅الحصول علي كورس تسويق مجاني معتمد بمجرد التسجيل.",
+    "companyLevel": "✅يستطيع العمل علي جميع الدول المتاحة علي المنصة. <br> ✅الحصول علي كورس تسويق مجاني معتمد بمجرد الترقية. <br> ❌لا يسمح له بالعمل علي نظام ربح (المشاريع العقارية). ",
+    "whenActive": "- يتم الترقية للمستوي النشط تلقائياً عند وصول أرباحك إلي 1500 جنية مصري."
+  },
+  "LoadingPage": {
+    "loading": "جاري التحميل ..."
+  },
+
+  "transactionsTable": {
+    "pending": "قيد التنفيذ",
+    "successful": "تمت بنجاح",
+    "cancelled": "تم الإلغاء",
+    "all": "الكل",
+    "transactionCode": "كود المعاملة",
+    "profitSystem": " نظام الربح ",
+    "serviceName": "اسم الخدمة",
+    "clientName": "اسم العميل",
+    "commissionAmount": "قيمة العمولة",
+    "communication": "اتصال",
+    "reviewed": "تمت المراجعة"
+  },
+
+  "forgetPassword": {
+    "title": "نسيت كلمة المرور",
+    "title2": "تغير كلمة المرور",
+    "phone_number": "رقم الهاتف",
+    "phone_number_p": "ادخل رقمك وانتظر رسالة بالرقم السرى",
+    "small_1": "تأكد من أن رقم الخاص بك يبدأ ب 0",
+    "confirm": "تاكيد",
+    "code": "الرقم السري",
+    "code_p": "ادخل الرقم السري"
+  },
+
+  "notify": {
+    "seeMore": "جميع الإشعارات",
+    "title": "الإشعارات"
+  },
+
+  "footer": {
+    "home": "الرئيسية",
+    "transactions": "المعاملات",
+    "myMissions": "مهماتي",
+    "dashboard": "لوحة التحكم",
+    "trainingCenter": "مركز التدريب",
+    "profitSystem": "أنظمة الربح",
+    "products": "المنتجات",
+    "team_earnings": "أرباحك من فريقك",
+    "promo_codes": "الرموز الترويجية",
+    "real_estate": "العقارات",
+    "services": "الخدمات",
+    "jobs": "الوظائف",
+    "missions": "المهمات",
+    "technical-support": "الدعم الفني",
+    "shipped": "يتم الشحن",
+    "contactUS": "تواصل معنا",
+    "paidBy": "الدفع بواسطة",
+    "links": "الروابط"
+  },
+
+  "filter": {
+    "title": "بحث متقدم في الموقع",
+    "country": "الدولة",
+    "city": "المدينة",
+    "category": "التصنيف",
+    "sub_category": "التصنيف الفرعي",
+    "sort_by": "الترتيب حسب",
+    "highest_profit": "أعلى ربح",
+    "lowest_profit": "أقل ربح",
+    "search": "تطبيق",
+    "custom": "تخصيص"
+  },
+
+  "advancedSettingsPage": {
+    "home": "الرئيسية",
+    "advancedSettings": "إعدادات النظام",
+    "aboutUs": "معلومات عنا",
+    "privacyAndUse": "سياسة الخصوصية",
+    "closeAcc": "غلق الحساب",
+    "NotificationAlert": "تنبيه الإشعارات",
+    "ShowBalance": " اظهار الرصيد",
+    "language": "اللغة",
+    "description": "تستطيع التحكم بالعديد من الخصائص التي تريدها",
+    "usage-policy": "سياسة الاستخدام"
+  },
+
+  "dashboard": {
+    "title_1": "بداية محلك",
+    "title_2": "الاونلاين الجديد",
+    "my_mission": "مهماتي",
+    "my_promo_code": "عروضي الترويجية",
+    "my_jobs": "وظائفي",
+    "my_services": "خدماتي",
+    "my_products": "منتجاتي",
+    "team_earnings": "ارباحي",
+    "wholesale_mall": "مول الجملة",
+    "wholesale_mall_p": "مول الجملة نص من ملف الترجمه مول الجملة نص من ملف الترجمه مول الجملة نص من ملف الترجمه مول الجملة نص من ملف الترجمه",
+    "my_store": "مخزني",
+    "my_store_p": "مخزني نص من ملف الترجمه  مخزني نص من ملف الترجمه  مخزني نص من ملف الترجمه مخزني نص من ملف الترجمه",
+    "sellers_count": " عدد المسوقين في منصة أوفر تايم "
+  }
+}
